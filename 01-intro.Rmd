@@ -1,21 +1,19 @@
 # Introduction {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+## Student Learning Objectives
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+SLO 7: Apply the scientific method, identify and interpret scientific literature.
+Competency: Career & Self-Development, Professionalism, Technology, Teamwork
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+1.	Career & Self-Development: 
+Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization. 
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+6.	Professionalism: 
+Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace. 
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+7.	Teamwork: 
+Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities. 
+8.	Technology: 
+Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+## Downloads
