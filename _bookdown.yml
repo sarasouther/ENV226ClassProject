@@ -2,4 +2,20 @@ book_filename: "bookdown-demo"
 language:
   ui:
     chapter_name: "Chapter "
+rmd_files:
+  - index.Rmd        # Introduction (index is always the first chapter)
+  - 01-intro.Rmd     # Chapter 1
+  - 02-readingscientificpapers.Rmd     # Chapter 2
+  - 03-literaturesearch.Rmd     # Chapter 3
+  - 04-usingacitationmanagers.Rmd
+  - 05-codingtables.Rmd
+  - 06-ethicalusesofAI.Rmd
+  - 07-methods.Rmd
+  - 08-results.Rmd
+  - 09-creatingfigures.Rmd
+  - 10-scientificmanuscriptsintroductions.Rmd
+  - 11-critiquingwritingrevising.Rmd
+  - 12-discussionconclusions.Rmd
+  - 13-developingpresentations.Rmd
+  - 14-feedbackpresentations.Rmd
 delete_merged_file: true

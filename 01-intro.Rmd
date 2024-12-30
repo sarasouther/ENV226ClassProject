@@ -1,19 +1,98 @@
 # Introduction {#intro}
 
+During the semester, we will explore an ecological theme of interest to you. This project will walk you through several critical aspects of conducting scientific research, including searching scientific databases, evaluating informational quality, analyzing literature, summarizing information, and writing-up your process and findings in a scientifically rigorous manner. In this way, this project addresses the course's student learning objectives (below) and builds several core competencies required for a career in the sciences or other fields.
+
 ## Student Learning Objectives
 
-SLO 7: Apply the scientific method, identify and interpret scientific literature.
-Competency: Career & Self-Development, Professionalism, Technology, Teamwork
+Apply the scientific method, identify and interpret scientific literature.
 
-1.	Career & Self-Development: 
-Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization. 
+Competencies: 
 
-6.	Professionalism: 
-Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace. 
+-  **Career & Self-Development**: Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization. 
 
-7.	Teamwork: 
-Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities. 
-8.	Technology: 
-Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.
+- **Professionalism**: Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace. 
+
+- **Teamwork**: Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities. 
+
+- **Technology**: Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.
 
 ## Downloads
+
+Rubrics
+Communication plan and contract
+Peer performance review
+
+## Description
+
+You will perform a literature review of an ecological topic of your choosing. There are different forms of literature reviews - we will be going further than the literature reviews typically performed for a lab report or other class project. Instead, we will perform a *systematic* literature review. A systematic literature review is similar to conducting research in the lab, except instead of collecting data on living organisms, you will collect data on a body of literature. 
+
+To do this, you will first select a question of interest. Your questions may address any topic in ecology - examining how organisms relate to one another and to their environment. The only qualifier is that there must be enough literature published on the topic to generate novel insights, by examining and summarizing the literature.
+
+As an **example**, here are some questions from previous years:
+- How will climate change affect Pinyon species in the Southwest?
+- What factors lead to successful restoration after Ponderosa pine fire?
+- How does shark behavior vary in response to human development?
+
+There are no right or wrong questions - please choose something of interest to you!
+
+## Week 1
+
+This week you will form the groups (up to 4 individuals) that you will work in during the semester. You also have the option to work alone, but working in groups is a great experience! To facilitate group work, this week you will turn in a group work communication plan (if you choose to work alone, select 'Working alone' on the plan, and turn that in). This will serve as a contract for how you will work in groups. 
+
+## Grading
+
+At the end of the course, you will present the results of your project to the rest of the class in the form of a presentation, for which you will also receive a group grade. Every member of your group will receive the same score on each section. Since we will work on this project during class time, attendance is expected, with exceptions in the case of illness or emergency. At the end of the semester, you will have the ability to affect the grade of your group members (see 'Peer performance review'). This peer performance review is meant to address significant problems, not slight differences in effort. To reduce a peer's grade, the peer performance document must be submitted, an attempt made to correct the problematic behavior and the complaint shared with the instructor. 
+
+In every class, at least one student fails to participate to the level required in a project like this. Should you choose to work in a group, I ask all groups to alert me to such problems well before the final product is due. The first such complaint will result in an emailed warning from me to the student who is failing to complete all obligations. The second complaint will result in a group meeting. The third complaint will result in the student being asked to carry out and submit an independent project instead of participating in the group project.
+
+An approximate length for your final completed group paper would be 15 pages, Times font, 12 pt, double-spaced, 1-inch margins. Direct language is important in scientific writing, so papers that are somewhat shorter than this will be acceptable. Much shorter, however, indicates an insufficient amount of interpretation, context, or data collection. Please use APA style for citations.
+
+All group members will receive the same grade for the four main written sections. You will be expected to use scientific style and appropriate grammar. No matter what your eventual career may be, writing is an essential skill and will be critical to your success; therefore, points will be deducted for incorrect writing (typos, grammatical mistakes, missing or incorrect citations, unclear meaning, etc.) – this paper should be written at a professional level. If you require writing assistance, we can help you utilize the University Writing Center. The Writing Center is a resource that can help you in many classes throughout your college career. We also recommend that you share drafts with your peers and offer feedback and editing to one another. Keep in mind that this assignment is a demonstration of your level of learning and understanding of basic ecology and commit yourself to submitting the highest quality final product possible.
+
+Rubrics have been provided. Please use them as a checklist to ensure that you have completed all the necessary steps for the project.
+
+## Overview
+
+We will go more in-depth into this process throughout the semester, but below, there is a broad description of the overall project.
+
+Step-by-step:
+- Read scientific papers
+- Citation managers
+- Literature literacy
+- Searching databases 
+- Generating a coding table
+- Ethical uses of AI
+- Methods
+- Results
+- Figures
+- Introduction
+- Critiquing writing
+- Discussion and conclusions
+- Scientific presentations
+- Peer reviewing presentations
+
+Reviewing published works to achieve insights from a body of literature is a common form of contributing to our scientific understandin. Bringing together the results of multiple studies is necessary to understand which patterns are consistent across systems and methodologies. A true literature review, therefore, does not just report what a host of papers and studies have found, but rather **synthesizes the findings and aims for new insights** that are achieved as a result of considering those papers and studies together in a single lens.
+
+The introduction should introduce the theme of your paper, its importance, and end with the major question that your literature review addresses. 
+
+Each of the following must be considered and explicitly described in the methods section of your paper:
+
+1) How will you find relevant papers? How will you make sure you haven’t missed important papers?
+
+The methods should begin with an explanation of your process for selecting papers and publications to include in your review. This should include a list of the search terms being used, the database that is used to search for publications, and the publication years that are considered. Using very broad terms will result in very large numbers of papers that are found in your searches, requiring you to read lots of papers in order to perform your synthesis. Search terms will need to be narrow enough to keep the literature being reviewed to a manageable size.
+
+2) How will you determine which papers to exclude?
+
+Some reviews exclude papers that are too old, papers that are outside a particular geographic region, or papers that do not make reference to a specific organism. It will be important to decide what to exclude in your review to make sure the number of papers being considered is manageable.
+
+3) How will you extract important information from the papers you have decided to include?
+
+Reading a paper and identifying relevant or key information from it usually follows a process called “coding,” which means that you identify key themes and concepts in the paper and identify its contribution to those themes and concepts. This usually involves making some sort of spreadsheet, with the themes and concepts listed as columns and the papers as rows, so that the links between them can easily be seen and understood. Describing how this coding will happen should be part of your methods section. Please provide a table that includes the themes that you coded in your review (I.e., a table including the citation, and, in a separate column, the ‘code’ or theme that you associated with each paper.
+
+Remember, your goal with your methods section is to convince your reader that you have done an adequate job understanding the body of literature that is relevant to your question, so that the answers you have come to are considered reliable and their basis is clear. From the information that you provided an independent person should be able to generate the citations used in the review.
+
+The results section should describe the number of papers that your search returned, how many were excluded, how publication rates changed through time, and how many themes emerged from your readings. This section should show at least one figure illustrating some characteristic of the body of literature that you reviewed, such as publication rates through time, a bar graph indicating how many publications addressed each of the topical themes, and/or the geographic origin of the work.
+
+The discussion is the real content of your review. Divide this into thematic sections (at least four themes to receive full points), in which you review and properly cite the literature that you reviewed. Finally, end with a conclusion section, in which you discuss drawbacks of your study, future research paths, the main finding of your study (what is the take home message?), and the overall importance of your work.
+
+

@@ -1,0 +1,191 @@
+# Literature search
+
+This week we will be visited by a Cline Librarian, who will go over the basics of literature searches with you! 
+
+## Downloads
+Cline library tutorial:
+https://sites.google.com/nau.edu/info-lit-advanced/lessons
+
+Document to complete
+
+## Learning objectives
+
+By the end of this lesson, students will be able to:
+
+1.	Understand the Importance of Information Literacy:
+
+	 - Explain why information literacy is critical for scientific research and professional success in applied sciences.
+	 - Identify the key components of information literacy, including access, evaluation, and proper use of information sources.
+	 
+2.	Navigate Scientific Databases:
+
+	 - Differentiate between various types of databases (e.g., article, publisher, e-print) and their applications.
+	 - Select and utilize discipline-specific databases like PubMed, Web of Science, and Scopus.
+	 
+3.	Develop Effective Search Strategies:
+
+	 - Employ the three-step process for expert searching:
+	 - Identify essential keywords.
+	 - Expand searches using synonyms.
+	 - Construct Boolean searches using operators like AND, OR, and NOT.
+	 - Apply advanced search techniques such as quotation marks, asterisks, and filters to refine results.
+	 
+4.	Evaluate and Document Sources:
+
+	 - Assess sources for relevance, credibility, and reliability, distinguishing between primary research articles, review articles, and pre-prints.
+	 - Document search strategies explicitly, including Boolean logic, synonyms, and database filters, to ensure reproducibility.
+	 
+5.	Compare Search Tools:
+
+	 - Understand the limitations of Google Scholar and the advantages of library databases for thorough, curated research.
+	 - Use Google Scholar strategically for locating PDFs of articles identified in searches.
+	 
+6.	Utilize Advanced Techniques:
+
+	 - Implement strategies such as citation chaining, related articles searches, and author searches to broaden the scope of research.
+	 - Leverage database-specific tools for sorting, filtering, and refining search results.
+	 
+7.	Apply Research Methods to Projects:
+
+	 - Integrate search results effectively into class projects and presentations, adhering to ethical standards for citation and use of information.
+	 - Write clear and detailed methods sections, documenting the search process comprehensively to ensure credit and reproducibility.
+
+## Background
+
+### Information literacy
+
+#### Importance of Information Literacy
+
+Information literacy is crucial for anyone pursuing a career in science or applied science disciplines. It enables you to:
+
+1.	Stay Updated: Scientists and practitioners must continually educate themselves on best practices and emerging discoveries.
+2.	Build on Knowledge: Research relies on understanding and extending prior studies. New discoveries don’t arise from a vacuum—they stem from the accumulation of earlier findings.
+3.	Make Informed Decisions: Whether designing experiments, creating policies, or treating patients, credible and relevant information is the foundation for sound decision-making.
+
+Key Aspects of Information Literacy in Science:
+
+1.	Access to Reliable Sources: Scientists must be able to find, access, and utilize high-quality resources like journal articles, databases, and textbooks. Libraries and institutional subscriptions play a vital role in providing access to such materials.
+2.	Critical Evaluation: Beyond finding information, researchers need to evaluate its relevance, reliability, and limitations. For example, distinguishing between primary research, review articles, and predatory journals is essential.
+3.	Effective Searching: Developing advanced search skills, such as using databases, Boolean operators, and keywords, helps researchers find the most relevant information without missing critical studies.
+4.	Citation and Credibility: Properly citing sources ensures academic integrity and acknowledges prior work, contributing to the collective knowledge in the field.
+
+Applications in Science and Careers: 
+
+- Research and Innovation: From understanding nitrogen’s impact on ecosystems to studying wildfire effects on water quality, every discovery builds on prior studies.
+- Policy Development: Information literacy aids in creating evidence-based policies, such as strategies for improving public health or environmental conservation.
+- Professional Growth: Mastery of these skills helps professionals stay competitive, make informed decisions, and contribute meaningfully to their fields.
+
+#### Takeaways
+
+- Information is a System: Knowledge progresses because discoveries are documented, made findable through databases, and accessible through libraries.
+- You Are Integral: Your ability to find, access, and synthesize information directly impacts your effectiveness as a scientist.
+- Practical Benefits: From avoiding misinformation to excelling in academic and professional projects, information literacy underpins success.
+
+By mastering these skills, you’ll not only thrive in your academic and career pursuits but also contribute to advancing science in meaningful ways.
+
+### Databases
+
+Summary: Importance of Information Literacy and Using Databases
+
+The Role of Information Literacy in Science
+
+Information literacy is critical for scientists and applied scientists to:
+
+	1.	Access and build on prior research to make informed decisions.
+	2.	Record and store discoveries in accessible sources for future use.
+	3.	Use appropriate skills to find, interpret, and use these sources effectively.
+
+Conditions for Effective Research
+
+For research to be useful, the following must be met:
+	1.	Discoveries must be recorded: Stored in journals, conference papers, and databases.
+	2.	Sources must be findable: Accessible through databases and search tools.
+	3.	Sources must be accessible: Libraries and subscriptions play a crucial role.
+	4.	Researchers need skills: Searching databases, using keywords, and critically evaluating sources are essential.
+
+Types of Databases
+	1.	Article Databases: Focus on journal articles and other publications (e.g., PubMed, Web of Science).
+	2.	Publisher Databases: Contain works from specific publishers (e.g., IEEE Xplore, SpringerLink).
+	3.	E-print Databases: Provide pre-print and post-print manuscripts (e.g., arXiv).
+
+Using Article Databases
+- Article databases allow efficient searches for journal articles, conference papers, and more.
+- Examples by discipline include:
+	- Biology: BIOSIS, Web of Science, Scopus
+	- Medicine: PubMed
+	- Engineering: IEEE Xplore
+	- Psychology: PsycINFO
+	
+For this assignment, you must use a database - such as Web of Science or Scopus - not Google Scholar!
+
+Google Scholar vs. Library Databases
+	- Google Scholar: Useful for quick searches but lacks advanced search features and curation. Use this to find pdfs identified during your search.
+	- Library Databases: Provide curated content and robust search tools, ensuring quality and reliability. Ensures that you can reproduce your literature search!
+
+Choosing Databases
+	- Use article databases for comprehensive searches across publishers.
+	- Publisher databases are useful in disciplines dominated by a single publisher.
+	- E-print databases can supplement, but caution is needed when using pre-prints.
+
+Final Note: Mastering information literacy and database use equips researchers to access and utilize high-quality information efficiently, contributing to academic and professional success.
+
+### Search terms
+
+Three-Step Process for Expert Searching
+	1.	Select essential keywords: Focus on the fewest, most critical terms that represent the topic.
+	2.	Gather synonyms: Expand the search with alternative terms to cover variations in language or phrasing.
+	3.	Use Boolean searches: Combine keywords and synonyms with operators like AND, OR, and NOT to refine and broaden searches effectively.
+
+Boolean Searching Example
+	- Search: fires OR wildfire AND Arizona AND streams OR rivers
+	- Result: Retrieves articles containing any of the synonyms, ensuring broader coverage of relevant sources.
+
+Database Search Features
+	- Field-specific searching: Target keywords in specific parts of records (e.g., titles, abstracts).
+	- Sorting options: Organize results by relevance, citation count, or publication date.
+	- Filters: Narrow results by language, publication type, date, or population group (e.g., human studies in PubMed).
+
+Strategies for Advanced Searching
+	1.	Citation chaining: Examine references cited in a paper or articles citing it.
+	2.	Related articles: Use tools like Google Scholar’s “Related Articles” to find similar studies.
+	3.	Author searches: Look for additional works by the same author(s) to explore their contributions further.
+
+Search Efficiency: Databases vs. Google Scholar
+	- Databases (e.g., PubMed, Web of Science): Offer curated content, advanced filters, and specialized tools tailored to disciplines.
+	- Google Scholar: Quick and broad but lacks robust filtering, leading to less precise results.
+
+Specialized Techniques
+	1.	Quotation marks: For exact phrases (e.g., "Grand Canyon").
+	2.	Asterisks: Capture word variations (e.g., comput* for compute, computing, computer).
+	3.	Filters in databases: Use discipline-specific filters to refine searches further (e.g., randomized controlled trials in PubMed).
+
+Common Pitfalls
+	- Incomplete searches can result in missing critical information.
+	- Students often overlook seeking librarian support, which can significantly save time and improve search quality.
+
+When you write your methods, you will need to explicitly detail the terms you searched, including Boolean operators, synonyms, asterisk, and quotes. If you do not include this information, you will not receive full points, so please document your search carefully.
+
+Final Note: Search skills go beyond finding “good enough” results. They require thoughtful planning, use of tools like Boolean logic, and leveraging database features to ensure comprehensive, high-quality research outcomes.
+
+## Procedure
+
+1. Select a database: Scopus, Web of Science
+2. Using the methods described above (Boolean operators, etc), search the database.
+3. Refine your search: You are aiming to review 20 - 100 papers. If your search is too broad, you will return too many papers. In order to reduce this number, try adding additional criteria, such as:
+
+- Add a place. i.e., Colorado Plateau, Southwest, Arizona
+- Add a global change component. i.e. How are bird migrations expected to shift as a function of climate change?
+- Add an interaction. i.e., How are Saguaro cacti affected by mycorrhizae?
+- Add a time. i.e., What threats to shark populations have emerged within the last 10 years?
+
+4. Once you have an appropriate number of citations, export the RIS file to upload later into your citation manager, as well as an excel file of your literature. 
+
+**Pro-tip**: Upload your citations, as a google sheet so that each member can review papers.
+
+## Deliverables
+
+Please turn in the worksheet.
+
+Note: This will worksheet will be used to help you start writing your methods section!
+
+

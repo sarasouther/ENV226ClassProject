@@ -1,0 +1,133 @@
+# Citation management
+
+## Learning objective:
+
+Students will set up a Zotero account, install the necessary tools, and learn how to collaborate with group members using shared libraries for organizing references.
+
+## Activity Overview:
+
+**Purpose**: Zotero is a free, easy-to-use tool for managing references, creating bibliographies, and organizing research materials. This activity ensures each group can effectively manage their references and streamline citation during their class project.
+
+**Outcome**: By the end of this activity, students will:
+
+- Have a Zotero account.
+- Install the Zotero desktop app and browser extension.
+- Create and share a Zotero group library with their team members.
+- Add references to their shared library and organize them into folders.
+	
+## Step-by-Step Instructions:
+
+1. Create a Zotero Account:
+
+- Visit https://www.zotero.org/.
+- Click “Log In” at the top-right corner.
+- Select “Register for a free account.”
+- Fill out the registration form with your email, username, and password.
+- Check your email for the confirmation link and verify your account.
+
+2. Download and Install Zotero:
+
+- Go to https://www.zotero.org/download/.
+- Download the Zotero Desktop App for your operating system (Windows, Mac, or Linux).
+- Follow the installation instructions for your operating system.
+
+3. Install the Zotero Connector:
+
+- From the same download page, install the Zotero Connector for your web browser (Chrome, Firefox, Edge, or Safari).
+- The connector allows you to save references directly from your browser to Zotero.
+
+4. Set Up a Group Library:
+
+- Open Zotero Desktop App and log in with your Zotero account.
+- Click the “New Group” icon (folder icon with a green plus) in the top-left corner.
+- Name your group (e.g., “GroupName_ProjectReferences”).
+- Choose the group type:
+	 - Private: Only invited members can view and edit.
+	 - Public, Closed Membership: Publicly visible but editable only by members.
+	 - Invite your group members by entering their Zotero-registered emails.
+
+5. Incorporate References into Your Group Library
+
+Last time, you completed a literature search and should have downloaded a RIS file to upload into Zotero.
+
+- Load Your RIS File into Zotero:
+
+1.	Export your references as an RIS file from your database or reference manager (e.g., Scopus, PubMed, Web of Science).
+2.	Open Zotero on your computer.
+3.	Go to File > Import and select the RIS file you saved.
+4.	Choose the option to import into a new collection, and name it based on your project or topic.
+5.	Verify that the references were successfully added to Zotero.
+
+- Add References Directly to Your Zotero Group Library:
+
+1.	Set up a shared group library in Zotero if you’re working in a group:
+
+ - In Zotero, go to File > New Group, create a new group, and invite your group members.
+ 
+2.	Move your imported references to the shared group library:
+
+	- Drag and drop items from your personal library to the shared group folder.
+	
+3.	Use the Zotero Connector to add new references:
+
+	- Navigate to a research article, book, or credible website in your browser.
+	- Click the Zotero icon in your browser toolbar to save the reference directly to your shared group library.
+	- Select the appropriate folder or create new folders for better organization.
+
+- Organize Your References:
+
+1.	Categorize references by creating folders or tags within your shared library:
+
+- For example, use folders for Background, Methods, Results, and Discussion.
+
+2.	Check for duplicates:
+
+- Use Zotero’s “Find Duplicates” tool to ensure your library is streamlined and free of errors.
+
+3.	Add notes or annotations to references:
+
+- Highlight key findings or relevant data that you plan to discuss in your manuscript.
+
+By organizing your references upfront, you’ll streamline the process of writing your discussion and conclusions sections, making it easier to cite relevant literature and contextualize your findings effectively. Having a well-organized reference library will also ensure consistency and efficiency as you progress through your manuscript.Once your references are prepared, you can proceed to structure and write the discussion and conclusion sections using evidence from the literature to support your analysis.
+
+6. Sync Your Library
+- Ensure all group members sync their Zotero libraries:
+
+- Open Zotero Desktop.
+- Go to Edit > Preferences > Sync (or Settings > Sync on Mac).
+- Log in and enable automatic syncing to ensure all group members see updates in real-time.
+
+7. Create a Citation and Bibliography:
+
+- In Zotero Desktop, select references and drag them into a Word or Google Docs document.
+- Zotero will automatically format them based on the selected citation style (e.g., APA, MLA, Chicago).
+- For dynamic citations, use the Zotero Plugin for Word or Google Docs.
+
+Class Group Activity:
+
+	1.	Individual Task:
+	
+	 - Each student sets up their Zotero account and installs the tools.
+	 
+	2.	Group Task:
+	
+	 - One group member creates the shared library and invites the others.
+	 - Repeat your search from last week, and export an RIS file
+	 - Import the citations (RIS file) into Zotero.
+	 - Groups plan to organize references moving forward.
+
+Tips for Success:
+
+- Stay Organized: Use folders or tags to group references by themes, sections, or project components.
+- Use Tags Effectively: Add tags like “key study,” “background,” or “methods” for easy filtering.
+- Sync Regularly: Always sync your library after making changes to ensure your group has the latest updates.
+
+## Deliverables:
+
+Each group will submit:
+
+	1.	A screenshot of their shared Zotero library showing:
+	 - Group name.
+	 - Members.
+	 - References.
+

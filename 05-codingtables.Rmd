@@ -1,0 +1,61 @@
+# Creating a coding table
+
+When conducting a literature review, systematically organizing and synthesizing the information from your sources is essential to build a strong foundation for your research. Coding information from manuscripts allows you to identify patterns, themes, and knowledge gaps while ensuring transparency and replicability in your review process. Coding involves creating a structured datasheet where each source is represented by a row, and the columns correspond to specific themes or factors of interest.
+
+This approach not only helps organize your findings but also serves as a foundation for your methods section, where you detail the process of analyzing your sources. Additionally, the themes identified in your coding table can inform the structure of your discussion, providing clear headings and subheadings.
+
+## Why Code Information?
+
+	1.	Structure and Organization: Coding ensures you capture key elements from every source and organize them systematically.
+	2.	Synthesis: Identifying recurring themes or factors across studies allows you to draw meaningful conclusions.
+	3.	Transparency: Including a coding table in your methods section provides a clear record of your process.
+	4.	Discussion Framework: Themes in the table can guide the structure of your discussion, helping readers follow your narrative.
+
+## How to Create a Coding Datasheet
+
+In the previous weeks of class, you have developed a research question, conducted a literature search, and identified literature to review. During your literature search process, you should have downloaded both the RIS file to enter into your citation manager AND an **excel file that has your citations listed**. This citation spreadsheet will become the basis of your coding table.
+
+### Design Your Coding Table
+
+Create a spreadsheet or table with the following features:
+
+	- Rows: Each row represents a single source or citation.
+	- Columns: Each column corresponds to a theme, factor, or piece of information you are extracting from the study (e.g., climate, disease dynamics, disturbance proximity, methods used, study location).
+
+For ease, modify the excel file that you downloaded. Much of the information from the file can be deleted for ease of review, but retain: the citation, date of publication, and location of publication, or any other information that you would like to capture to describe the state of literature related to your topic.
+
+Developing themes in a systematic literature review involves identifying patterns, concepts, and recurring ideas across multiple studies to synthesize findings meaningfully. The process begins by reading and coding the articles, focusing on key aspects such as research questions, methodologies, findings, and limitations. As you review the data, group similar ideas into preliminary categories. For instance, studies on ecological restoration might reveal themes like “restoration techniques,” “biodiversity outcomes,” or “climate adaptation.” Iteratively refine these categories as you read more, ensuring they accurately reflect the breadth and nuances of the literature. Use tools like spreadsheets, qualitative coding software, or conceptual mapping to organize and visualize these themes. Lastly, critically analyze the themes to identify gaps, contradictions, or emerging trends, which can guide your synthesis and highlight areas for future research. The goal is to develop themes that capture the essence of the body of work while remaining flexible enough to adapt to new insights as the review progresses.
+
+### Build your coding table
+
+Upload your file to a document sharing platform, like google sheets. Devise a plan for how to divide the review of these articles, and the information that each group member needs to add (date, location, note themes).
+
+### Analyze and Synthesize
+
+Once you have populated your table, you can use it to:
+
+	1.	Identify patterns and gaps in the data.
+	2.	Use the columns as a guide to structure your discussion sections - these columns will become the header of your discussion section.
+	3.	Highlight how your findings address your research question.
+
+### Deliverables
+
+Please turn in a screen shot of your coding table structure, and a brief description of the how you plan to review your literature, including which references each group member will review and a timeline for completing the review.
+
+### Document your process
+
+How you will include in your final project:
+
+1.	Methods Section:
+	
+	- Describe how you identified and coded the sources.
+	- Detail the search terms and databases used.
+	- Explain how you decided on the themes for your coding table.
+	
+2.	Discussion Section:
+	
+	- Use the themes identified in your coding table as subheadings.
+	- Synthesize findings across studies to address your research question.
+
+By following this approach, your literature review will be well-organized, thorough, and clearly linked to your research objectives.
+

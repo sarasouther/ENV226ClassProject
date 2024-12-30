@@ -1,0 +1,13 @@
+# Creating figures
+
+During the coding process, you noted aspects of the literature - when a manuscript was published, where it was published and what themes the manuscripts addressed. In this section, you will create at least one figure showing trends or an aspect of your literature. Here you have R code that can be modified to generate figures showing aspects of the literature. 
+
+The key parts of this process are to develop the .csv file that can be imported into R and with columns that correspond to the R code. Additionally, please develop appropriate figure legends, using the same guidelines that you have learned in lab:
+
+## Downloads
+
+R code
+
+## Deliverables
+
+Turn in one figure with an appropriate figure legend.

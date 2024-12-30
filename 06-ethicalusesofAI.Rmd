@@ -1,0 +1,53 @@
+# Ethical Use of AI for Student Projects
+
+AI tools, such as ChatGPT and other language models, can be valuable resources when used appropriately in academic work. However, it is crucial for students to understand the ethical boundaries of using AI in their projects to ensure academic integrity and personal learning growth.
+
+Acceptable Uses of AI
+	1.	Editing and Proofreading
+	•	Students may use AI to check their grammar, punctuation, and sentence structure.
+	•	AI can help refine writing by suggesting more concise or clearer ways to express ideas.
+	2.	Idea Generation
+	•	Students can use AI for brainstorming topics or approaches for their projects.
+	•	AI can provide alternative perspectives or help students explore potential areas of inquiry.
+	3.	Clarifying Concepts
+	•	AI can be used as a supplemental tool to explain scientific concepts or terms students may not fully understand.
+	•	Students can ask AI to rephrase or simplify explanations found in research articles or class materials.
+	4.	Organizing Research
+	•	AI tools can assist with creating summaries of articles, identifying key points, or organizing thoughts into structured outlines.
+	5.	Citations and Formatting
+	•	AI can help generate proper citations and bibliographies, though students should double-check for accuracy.
+	•	Formatting assistance for academic styles like APA, MLA, or Chicago is a valid use.
+	6.	Code Assistance
+	•	For projects requiring programming, AI may help troubleshoot errors, explain coding concepts, or suggest improvements in scripts or algorithms.
+
+Unacceptable Uses of AI
+	1.	Writing Original Content
+	•	Students must write their own reports, essays, or project descriptions. AI-generated text should not substitute for original student work.
+	•	Using AI to create entire paragraphs or sections is considered academic dishonesty unless explicitly allowed by the instructor.
+	2.	Bypassing the Learning Process
+	•	Students should not use AI to generate answers to assignments, especially when the purpose is to develop critical thinking and problem-solving skills.
+	3.	Plagiarism
+	•	Copying and pasting AI-generated text without proper citation, even if AI contributed minimally, is considered plagiarism.
+	4.	Fabricating Data or Results
+	•	AI must not be used to create fake data, results, or analyses that misrepresent actual findings.
+
+Guidelines for Ethical Use
+	1.	Transparency
+	•	If students use AI tools for editing, organizing, or brainstorming, they must disclose this in their project documentation or acknowledgments.
+	2.	Instructor Approval
+	•	When in doubt, students should consult with the instructor about whether a specific use of AI is permissible for a given assignment.
+	3.	Cite AI Contributions
+	•	If students use AI for brainstorming or editing, they should acknowledge its role (e.g., “This text was reviewed and refined with the assistance of AI-based proofreading tools”).
+	4.	Focus on Learning
+	•	Students should use AI as a learning tool rather than a shortcut, ensuring that they fully understand the material and can demonstrate their knowledge independently.
+	5.	Critical Evaluation
+	•	Any content or suggestion from AI should be critically evaluated by the student for accuracy, relevance, and appropriateness to their work.
+
+Incorporating AI in the Project
+
+For this class project, students are encouraged to:
+	•	Use AI to refine their grammar and structure but not to generate original text.
+	•	Leverage AI to clarify complex concepts or organize their thoughts into outlines.
+	•	Practice transparency by acknowledging the use of AI where applicable.
+
+By adhering to these guidelines, students can ethically and effectively use AI tools to enhance their academic work while upholding the principles of academic integrity and personal accountability.
