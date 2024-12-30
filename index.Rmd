@@ -11,6 +11,51 @@ documentclass: book
 description: "A guide for completing the class project."
 ---
 
-# Welcome
+# Introduction {#intro}
 
-This is your step-by-step guide to the ENV 226 Class Project: Explorations in Ecology!
+During the semester, we will explore an ecological theme of interest to you. This project will walk you through several critical aspects of conducting scientific research, including searching scientific databases, evaluating informational quality, analyzing literature, summarizing information, and writing-up your process and findings in a scientifically rigorous manner. In this way, this project addresses the course's student learning objectives (below) and builds several core competencies required for a career in the sciences or other fields.
+
+## Student Learning Objectives
+
+Apply the scientific method, identify and interpret scientific literature.
+
+Competencies: 
+
+-  **Career & Self-Development**: Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization. 
+
+- **Professionalism**: Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace. 
+
+- **Teamwork**: Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities. 
+
+- **Technology**: Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.
+
+## Downloads
+
+Rubrics
+
+## Description
+
+Working alone or in groups of up to 4, you will perform a literature review of an ecological topic of your choosing. You will present your work both in the form of a manuscript and a presentation. There are different forms of literature reviews - we will be going further than the literature reviews typically performed for a lab report or other class project. Instead, we will perform a *systematic* literature review. A systematic literature review is similar to conducting research in the lab, except instead of collecting data on living organisms, you will collect data on a body of literature. 
+
+To do this, you will first select a question of interest. Your questions may address any topic in ecology - examining how organisms relate to one another and to their environment. The only qualifier is that there must be enough literature published on the topic to generate novel insights, by examining and summarizing the literature.
+
+As an **example**, here are some questions from previous years:
+- How will climate change affect Pinyon species in the Southwest?
+- What factors lead to successful restoration after Ponderosa pine fire?
+- How does shark behavior vary in response to human development?
+
+There are no right or wrong questions - please choose something of interest to you!
+
+## Grading
+
+Every member of your group will receive the same score on the manuscript and presentation. An approximate length for your final completed group paper would be 15 pages, Times font, 12 pt, double-spaced, 1-inch margins. Direct language is important in scientific writing, so papers that are somewhat shorter than this will be acceptable. Much shorter, however, indicates an insufficient amount of interpretation, context, or data collection. Please use APA style for citations.
+
+You will be expected to use scientific style and appropriate grammar. No matter what your eventual career may be, writing is an essential skill and will be critical to your success; therefore, points will be deducted for incorrect writing (typos, grammatical mistakes, missing or incorrect citations, unclear meaning, etc.) – this paper should be written at a professional level. If you require writing assistance, we can help you utilize the University Writing Center. The Writing Center is a resource that can help you in many classes throughout your college career. We also recommend that you share drafts with your peers and offer feedback and editing to one another. Keep in mind that this assignment is a demonstration of your level of learning and understanding of basic ecology and commit yourself to submitting the highest quality final product possible.
+
+Since we will work on this project during class time, attendance is expected, with exceptions in the case of illness or emergency. At the end of the semester, you will have the ability to affect the grade of your group members (see 'Peer performance review'). This peer performance review is meant to address significant problems, not slight differences in effort. To reduce a peer's grade, the peer performance document must be submitted, an attempt made to correct the problematic behavior and the complaint shared with the instructor. 
+
+Rubrics have been provided. Please use them as a checklist to ensure that you have completed all the necessary steps for the project.
+
+## Overview
+
+Reviewing published works to achieve insights from a body of literature is a common form of contributing to our scientific understanding. Bringing together the results of multiple studies is necessary to understand which patterns are consistent across systems and methodologies. A true literature review, therefore, does not just report what a host of papers and studies have found, but rather **synthesizes the findings and aims for new insights** that are achieved as a result of considering those papers and studies together in a single lens. Throughout this semester, we will walk through the process of conducting the literature review, analyzing the data, writing the introduction, methods, results and conclusions, and developing a scientific presentation that will be presented in front of the class during the last week of the semester.
