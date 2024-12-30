@@ -7,6 +7,10 @@ output:
   bookdown::gitbook:
     css: style.css
 documentclass: book
-bibliography: [references.bib]
+# bibliography: [references.bib]
 description: "A guide for completing the class project."
 ---
+
+# Welcome
+
+This is your step-by-step guide to the ENV 226 Class Project: Explorations in Ecology!
