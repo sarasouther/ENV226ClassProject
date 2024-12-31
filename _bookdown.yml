@@ -1,4 +1,5 @@
-book_filename: "bookdown-demo"
+book_filename: "ENV226ClassProject"
+output_dir: "_book"
 language:
   ui:
     chapter_name: "Chapter "
