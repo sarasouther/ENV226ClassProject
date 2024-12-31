@@ -8,4 +8,4 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/sarasouther/ENV226ClassProject" target="blank">Published with bookdown</a></li>
     edit: https://github.com/sarasouther/ENV226ClassProject/edit/main/%s
-    download: ["epub"]
+    download: ["pdf", "epub"]
