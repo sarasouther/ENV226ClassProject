@@ -5,7 +5,6 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 output_dir: "_book"
----
 description: "A guide for completing the class project."
 ---
 
