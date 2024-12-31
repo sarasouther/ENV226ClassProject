@@ -3,6 +3,7 @@
 ## Learning objectives
 
 By completing this assignment, students will develop critical skills for effectively reading, interpreting, and analyzing scientific articles. Specifically, students will:
+
 - Learn to identify different types of scientific articles (e.g., primary research, meta-analysis, literature review, opinion pieces, and case studies) and understand their structure.
 - Practice extracting key information, including the purpose, methods, results, and conclusions, by skimming abstracts and figures.
 - Develop strategies for evaluating the context, strengths, and limitations of studies by engaging with the introduction, methods, and discussion sections.

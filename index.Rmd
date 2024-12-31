@@ -4,7 +4,8 @@ author: "Dr. Sara Souther"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-output_dir: "_book"
+output_dir: "docs"
+---
 description: "A guide for completing the class project."
 ---
 
@@ -28,7 +29,8 @@ Competencies:
 
 ## Downloads
 
-Rubrics
+[Final paper rubric](https://docs.google.com/document/d/13G8SdVpTp7MDJHxx0DN3JzqK4UVE4eHC/export?format=pdf)
+[Presentation rubric](https://drive.google.com/uc?export=download&id=1f5omd8q7F6AxFyLUPQZHya3kfVz5hdI9)
 
 ## Description
 
@@ -37,6 +39,7 @@ Working alone or in groups of up to 4, you will perform a literature review of a
 To do this, you will first select a question of interest. Your questions may address any topic in ecology - examining how organisms relate to one another and to their environment. The only qualifier is that there must be enough literature published on the topic to generate novel insights, by examining and summarizing the literature.
 
 As an **example**, here are some questions from previous years:
+
 - How will climate change affect Pinyon species in the Southwest?
 - What factors lead to successful restoration after Ponderosa pine fire?
 - How does shark behavior vary in response to human development?

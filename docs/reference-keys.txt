@@ -1,3 +1,4 @@
+description-a-guide-for-completing-the-class-project.
 intro
 student-learning-objectives
 downloads

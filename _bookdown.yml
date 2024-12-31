@@ -1,5 +1,5 @@
 book_filename: "ENV226ClassProject"
-output_dir: "_book"
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
