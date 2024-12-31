@@ -5,8 +5,20 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 output_dir: "docs"
----
-description: "A guide for completing the class project."
+github-repo: sarasouther/ENV226ClassProject
+output:
+  bookdown::gitbook:
+    css: style.css
+    config:
+      toc:
+        before: |
+          <li><a href="./">ENV 226 Class Project: Explorations in Ecology</a></li>
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+      edit: https://github.com/sarasouther/ENV226ClassProject/edit/main/%s
+      download: ["epub"]
+  bookdown::epub_book:
+    toc: true
 ---
 
 # Introduction {#intro}

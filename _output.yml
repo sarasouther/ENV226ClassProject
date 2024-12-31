@@ -1,6 +1,6 @@
 bookdown::gitbook:
-  output_dir: "docs"
   css: style.css
+  title: "ENV 226 Class Project: Explorations in Ecology"
   config:
     toc:
       before: |
@@ -8,4 +8,8 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/sarasouther/ENV226ClassProject" target="blank">Published with bookdown</a></li>
     edit: https://github.com/sarasouther/ENV226ClassProject/edit/main/%s
-    download: ["pdf", "epub"]
+    download: ["epub"]
+  output_dir: "docs"
+
+bookdown::epub_book:
+  toc: true
