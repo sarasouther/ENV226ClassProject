@@ -6,10 +6,10 @@ This approach not only helps organize your findings but also serves as a foundat
 
 ## Why Code Information?
 
-	1.	Structure and Organization: Coding ensures you capture key elements from every source and organize them systematically.
-	2.	Synthesis: Identifying recurring themes or factors across studies allows you to draw meaningful conclusions.
-	3.	Transparency: Including a coding table in your methods section provides a clear record of your process.
-	4.	Discussion Framework: Themes in the table can guide the structure of your discussion, helping readers follow your narrative.
+1.	Structure and Organization: Coding ensures you capture key elements from every source and organize them systematically.
+2.	Synthesis: Identifying recurring themes or factors across studies allows you to draw meaningful conclusions.
+3.	Transparency: Including a coding table in your methods section provides a clear record of your process.
+4.	Discussion Framework: Themes in the table can guide the structure of your discussion, helping readers follow your narrative.
 
 ## How to Create a Coding Datasheet
 
@@ -19,8 +19,8 @@ In the previous weeks of class, you have developed a research question, conducte
 
 Create a spreadsheet or table with the following features:
 
-	- Rows: Each row represents a single source or citation.
-	- Columns: Each column corresponds to a theme, factor, or piece of information you are extracting from the study (e.g., climate, disease dynamics, disturbance proximity, methods used, study location).
+- Rows: Each row represents a single source or citation.
+- Columns: Each column corresponds to a theme, factor, or piece of information you are extracting from the study (e.g., climate, disease dynamics, disturbance proximity, methods used, study location).
 
 For ease, modify the excel file that you downloaded. Much of the information from the file can be deleted for ease of review, but retain: the citation, date of publication, and location of publication, or any other information that you would like to capture to describe the state of literature related to your topic.
 
@@ -34,9 +34,9 @@ Upload your file to a document sharing platform, like google sheets. Devise a pl
 
 Once you have populated your table, you can use it to:
 
-	1.	Identify patterns and gaps in the data.
-	2.	Use the columns as a guide to structure your discussion sections - these columns will become the header of your discussion section.
-	3.	Highlight how your findings address your research question.
+1.	Identify patterns and gaps in the data.
+2.	Use the columns as a guide to structure your discussion sections - these columns will become the header of your discussion section.
+3.	Highlight how your findings address your research question.
 
 ### Deliverables
 

@@ -2,152 +2,163 @@
 
 ## Learning objectives
 
-By completing this assignment, students will develop critical skills for effectively reading, interpreting, and analyzing scientific articles. Specifically, students will:
+By completing this assignment, you will develop critical skills for effectively reading, interpreting, and analyzing scientific articles. Specifically, you will:
 
-- Learn to identify different types of scientific articles (e.g., primary research, meta-analysis, literature review, opinion pieces, and case studies) and understand their structure.
+- Learn to identify different types of scientific articles (e.g., primary research, meta-analysis, literature review, opinion pieces, and case studies)   and understand their structure.
 - Practice extracting key information, including the purpose, methods, results, and conclusions, by skimming abstracts and figures.
-- Develop strategies for evaluating the context, strengths, and limitations of studies by engaging with the introduction, methods, and discussion sections.
+- Develop strategies for evaluating the context, strengths, and limitations of studies by engaging with the introduction, methods, and discussion        sections.
 - Build proficiency in assessing the quality and relevance of articles to address specific research questions or project needs.
-- Gain familiarity with critical analysis techniques, such as identifying sources of bias, experimental artifacts, and the adequacy of methodologies or sample sizes.
+- Gain familiarity with critical analysis techniques, such as identifying sources of bias, experimental artifacts, and the adequacy of methodologies or   sample sizes.
 - Enhance their ability to synthesize findings and articulate the main take-home messages from scientific papers.
 
 This assignment aims to equip students with the tools necessary for navigating scientific literature, applying critical thinking, and integrating findings into their own research or projects.
 
 ## Downloads
 
-Word document to fill out and turn in
-Manuscript to review
+[Word document to fill out and turn-in](https://drive.google.com/uc?export=download&id=1AYYDivImitN2tWkFxCr64khhpuost5qj)
+[Manuscript to review](https://drive.google.com/uc?export=download&id=1KqDECA155h1PtmUjXKTXdqkEd2ArzXK_)
 
 ## Background and activity
 
 Reading and interpreting scientific articles is an important skill for working in science-related fields, for success in this class, and for applying research in everyday life! Few researchers, will read scientific articles like a textbook (i.e., reading from the abstract to the conclusions). Rather, they focus on generating a quick understanding of the key findings, drawbacks of the study, and research implications. 
 
-1.	Skim the article and identify the type of article and its structure. 
+### Skim the article  
 
 When reading an article, you want to know quickly what you are dealing with! Quickly, read the abstract. 
 
-Features of Abstracts
 Abstracts usually contain four kinds of information: 
-• purpose or rationale of study (why they did it) 
-• methodology (how they did it)
-• results (what they found)
-• conclusion (what it means)
 
-First, ask yourself, what type of article you are reading. This will dictate what you are looking for as you read the paper. 
+- purpose or rationale of study (why they did it) 
+- methodology (how they did it)
+- results (what they found)
+- conclusion (what it means)
+
+### Identify the type of article
 
 There are several primary article types: 
-•	Primary research: Authors conducted an experiment, collected and analyzed data, and wrote-up their findings.
-•	Literature review: Authors systematically searched for and analyzed a set of manuscripts to draw novel insights from pre-existing research studies. Systematic means that authors used particular search terms to identify articles within a particular time period and geographic area. The search can be replicated; in other words, if someone entered the exact search terms and information, they should generate the same body of literature. All literature returned by the search is reviewed.
-•	Meta-analysis: Similar to a literature review, authors are drawing from previous studies (not conducting an actual experiment), but they use statistics to look across studies to quantify effects of a factor on a response variable. 
-o	Example of a meta-analysis: Researchers looked across studies of forest thinning projects to determine the effect of thinning on the basal area of trees.
-•	Case study: A case study is an in-depth, detailed examination of a particular case within a real-world context.
-•	Opinion piece: Authors are commenting on an important topic. Usually, the opinion is supported by literature, but an opinion piece differs from a literature review, because the authors are making a particular argument and supporting with only literature that illustrates their point (not a systematic review). 
 
-Most journals use a conventional IMRD structure: 
-An abstract followed by Introduction, Methods, Results, and Discussion. Most article types will use this structure, with the exception of the opinion piece and case studies, which may or may not follow a typical structure.
+- **Primary research**: Authors conducted an experiment, collected and analyzed data, and wrote-up their findings.
+- **Literature review**: Authors systematically searched for and analyzed a set of manuscripts to draw novel insights from pre-existing research           studies. Systematic means that authors used particular search terms to identify articles within a particular time period and geographic area. The 
+    search can be replicated; in other words, if someone entered the exact search terms and information, they should generate the same body of             literature. All literature returned by the search is reviewed.
+- **Meta-analysis**: Similar to a literature review, authors are drawing from previous studies (not conducting an actual experiment), but they use         statistics to look across studies to quantify effects of a factor on a response variable. 
+      - Example of a meta-analysis: Researchers looked across studies of forest thinning projects to determine the effect of thinning on the basal area         of trees.
+- **Case study**: A case study is an in-depth, detailed examination of a particular case within a real-world context.
+- **Opinion piece**: Authors are commenting on an important topic. Usually, the opinion is supported by literature, but an opinion piece differs from a   literature review, because the authors are making a particular argument and supporting with only literature that illustrates their point (not a        systematic review). 
 
-Based on the abstract:
-Q1: What type of article are you reading? 
+Most journals use a conventional *IMRD structure*: An abstract followed by Introduction, Methods, Results, and Discussion. Most article types will use this structure, with the exception of the opinion piece and case studies, which may or may not follow a typical structure.
+
+On the document that you downloaded you will find the questions presented here. Walk through your review of the article answering the questions within the document:
+
+### Review the abstract
+
+1. What type of article are you reading? 
 
 
-Q2: What is the general topic of the article?
+2. What is the general topic of the article?
 
+### Glance at the figures
 
 Next, flip to the figures. Based on these figures, note the significant findings and compare to the main topic that you identified in abstract. Figures typically highlight the most important points of the paper; they are a great short-cut for identifying significant findings.
 
 Based on the figures:
-Q3: What are the main findings of this manuscript?
+
+3. What are the main findings of this manuscript?
 
 
 
-Note: For articles that we read in class, you will need to read the articles with an eye towards discussion and thus will need to complete the entire process of reading a manuscript in this document. However, when you are reviewing literature for your class project, you may get to this point and determine that the article doesn’t address the question that you are examining, and thus may stop the process here! Be sure to note the reason for excluding the article!
+**Note**: For articles that we read in class, you will need to read the articles with an eye towards discussion and thus will need to complete the entire process of reading a manuscript in this document. However, when you are reviewing literature for your class project, you may get to this point and determine that the article doesn’t address the question that you are examining, and thus may stop the process here! Be sure to note the reason for excluding the article!
 
-2.	With the understanding of the article in mind, return to the Introduction, and read with the goal of putting this article in context with previous research.
+### Read the introduction
 
-Introductions serve two purposes: creating readers’ interest in the subject and providing them with enough information to understand the article. Generally, introductions accomplish this by leading readers from broad information (what is known about the topic) to more specific information (what is not known) to a focal point (what question the authors asked and answered). Thus, authors describe previous work that led to current understanding of the topic (the broad) and then situate their work (the specific) within the field.
+With the understanding of the article in mind, return to the **Introduction**, and read with the goal of putting this article in context with previous research.Introductions serve two purposes: creating readers’ interest in the subject and providing them with enough information to understand the article. Generally, introductions accomplish this by leading readers from broad information (what is known about the topic) to more specific information (what is not known) to a focal point (what question the authors asked and answered). Thus, authors describe previous work that led to current understanding of the topic (the broad) and then situate their work (the specific) within the field.
 
-Q4: Why is this study important?
+Based on the introduction, answer these questions:
 
-
-
-Q5: What is the question the authors asked?
-
-
-Q6: Do the major findings support this question?
+4. Why is this study important?
 
 
 
-Q7: Are there any terms that you don’t know? List them below and define them.
+5. What is the question the authors asked?
+
+
+6. Do the major findings support this question?
 
 
 
+7. Are there any terms that you don’t know? List them below and define them.
+
+### Skim the methods. 
+
+The Methods section tells the reader what experiments were done to answer the question stated in the Introduction. Methods are often difficult to read, because of technical language and a level of detail sufficient for another trained scientist to repeat the experiments. However, there are a few things to look for, in order to identify any drawbacks of the study. **Choose your own adventure!** In this section, only answer the questions associated with the type of article that you are reading!
+
+#### Primary research articles
+
+If you are reading a **primary research article**, answer these questions:
+
+8.1. If this is a primary research article, is this an observational or experimental study?
 
 
 
-
-
-3.	Skim the methods. 
-
-The Methods section tells the reader what experiments were done to answer the question stated in the Introduction. Methods are often difficult to read, because of technical language and a level of detail sufficient for another trained scientist to repeat the experiments. However, there are a few things to look for, in order to identify any drawbacks of the study.  
-
-Choose your own adventure! In this section, only answer the questions associated with the type of article that you are reading!
-
-Primary research articles:
-Q8.1: If this is a primary research article, is this an observational or experimental study?
+8.2. If this is a primary research article, can you identify any experimental artefacts?
 
 
 
-Q8.2: If this is a primary research article, can you identify any experimental artefacts?
+8.3. If this is a primary research article, do they have an appropriate control?
 
 
 
-Q8.3: If this is a primary research article, do they have an appropriate control?
+8.4. Is the sample size (aka replication) sufficient to answer the question?
 
 
 
-Q8.4: Is the sample size (aka replication) sufficient to answer the question?
+#### Literature review or meta-analysis
+
+If you are reading a **literature review** or **meta-analysis**, answer these questions:
+
+8.1. Did the search terms adequately reflect the question the authors are asking?
 
 
 
-Literature review or meta-analysis:
-Q8.1: Did the search terms adequately reflect the question the authors are asking?
+8.2. Did the authors unnecessary exclude articles?
 
 
 
-Q8.2: Did the authors unnecessary exclude articles?
+8.3. Is the sample size (number of articles included) sufficient to answer the question?
 
 
+#### Opinion piece or case study
 
-Q8.3: Is the sample size (number of articles included) sufficient to answer the question?
+If you are reading an opinion piece or case study, please answer these questions:
 
-
-Opinion piece or case study:
-Q8.1: What sources of bias are apparent in the article?
+8.1. What sources of bias are apparent in the article?
 If a case study, for instance, what makes this location unique (hard to generalize findings to other places, groups or times?
 If an opinion piece: Do the authors have a significant investment in putting forth a particular idea?
 
 
 
-Q8.2: Do a quick search for articles with contrary findings. Are there many? What do they find?
+8.2. Do a quick search for articles with contrary findings. Are there many? What do they find?
 
 
 
 
-Q8.3: Did the authors represent these contrary findings or viewpoints in their article?
+8.3. Did the authors represent these contrary findings or viewpoints in their article?
 
 
 
 
-4.	Read the discussion
+### Read the discussion
+
 The discussion is where the authors interpret results and contextualize findings within the extant scientific literature. This is in many ways the most information-rich part of the paper! 
 
-Q9: Did the authors discuss caveats and limitations to the research? What were they and did they align with issues that you identified?
+Based on the article, answer the following questions:
+
+9: Did the authors discuss caveats and limitations to the research? What were they and did they align with issues that you identified?
 
 
+10: What was the take home message?
 
+## Deliverables 
 
-
-
-Q10: What was the take home message?
+Please turn-in your completed to Canvas.
 
 
