@@ -5,14 +5,14 @@ language:
   ui:
     chapter_name: "Chapter "
 rmd_files: [
-  "index.Rmd",        # Introduction (index is always the first chapter)
-  "01-intro.Rmd",     # Chapter 1
-  "02-readingscientificpapers.Rmd",     # Chapter 2
-  "03-literaturesearch.Rmd",     # Chapter 3
+  "index.Rmd",
+  "01-intro.Rmd",
+  "02-readingscientificpapers.Rmd",
+  "03-literaturesearch.Rmd",
   "04-usingacitationmanagers.Rmd",
   "05-codingtables.Rmd",
-  "06-ethicalusesofAI.Rmd",
-  "07-methods.Rmd",
+  "06-methods.Rmd",
+  "07-ethicalusesofAI.Rmd",
   "08-results.Rmd",
   "09-creatingfigures.Rmd",
   "10-scientificmanuscriptsintroductions.Rmd",

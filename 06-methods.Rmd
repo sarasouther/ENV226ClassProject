@@ -1,6 +1,6 @@
 # Methods 
 
-The Methods section of a scientific paper explains how the research was conducted, allowing others to replicate the study or assess its reliability. Today, we will draft a methods section for your literature review. \
+The Methods section of a scientific paper explains how the research was conducted, allowing others to replicate the study or assess its reliability. Today, we will draft a methods section for your literature review. 
 
 ## Purpose of the Methods Section
 	

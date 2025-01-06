@@ -87,6 +87,7 @@ By organizing your references upfront, you’ll streamline the process of writin
 - Highlight key findings or relevant data that you plan to discuss in your manuscript.
 
 ## Sync Your Library
+
 - Ensure all group members sync their Zotero libraries:
 
 - Open Zotero Desktop.
@@ -95,9 +96,7 @@ By organizing your references upfront, you’ll streamline the process of writin
 
 ## Create a Citation and Bibliography:
 
-- In Zotero Desktop, select references and drag them into a Word or Google Docs document.
-- Zotero will automatically format them based on the selected citation style (e.g., APA, MLA, Chicago).
-- For dynamic citations, use the Zotero Plugin for Word or Google Docs.
+Please install the Zotero Plugin for Word or Google Docs. Then, practice adding citations to the document 
 
 ## Activity:
 

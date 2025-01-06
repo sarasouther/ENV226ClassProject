@@ -26,6 +26,8 @@ Scientific manuscripts typically follow an “hourglass” structure, transition
 Interpret the results and link them to the broader context.
 Discuss implications, limitations, and future research directions.
 
+## Title, Abstract, and Acknowledgements
+
 5.	Abstract and Title:
 
 Summarize the manuscript’s key points.

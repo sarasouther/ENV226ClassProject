@@ -1,0 +1,136 @@
+# Ethical Use of AI for Student Projects
+
+AI tools, such as ChatGPT and other language models, can be valuable resources when used appropriately in academic work. However, it is crucial to understand the ethical boundaries of using AI in their projects to ensure academic integrity and personal learning growth.
+
+## Acceptable Uses of AI
+
+1.	Editing and Proofreading:
+
+- You may use AI to check grammar, punctuation, and sentence structure.
+- AI can help refine writing by suggesting more concise or clearer ways to express ideas.
+- *Important*: When editing and proofreading, you must include prompts that ask AI not to simply generate new text for you. See below.
+
+2.	Brainstorming:
+
+- You can use AI for brainstorming topics or approaches for their projects. For instance, if you are still struggling to identify a topic for your research paper, you can work with AI to obtain alternative perspectives or to explore potential areas of inquiry.
+
+3.	Clarifying Concepts:
+
+- AI can be used as a supplemental tool to explain scientific concepts or terms that you may not fully understand.
+- When reviewing research articles for this class, you can ask AI to rephrase or simplify explanations found in research articles or class materials.
+
+4.	Organizing Research:
+
+- AI tools can assist with creating summaries of articles, identifying key points, or organizing thoughts into structured outlines.
+
+5.	Code Assistance:
+
+- For projects requiring programming, AI may help troubleshoot errors, explain coding concepts, or suggest improvements in scripts or algorithms.
+
+## Unacceptable Uses of AI
+
+1.	Writing Original Content:
+
+- You must write your own reports, essays, or project descriptions. AI-generated text should not substitute for original work.
+- Using AI to create entire paragraphs or sections is considered **academic dishonesty** unless explicitly allowed by the instructor.
+
+2.	Bypassing the Learning Process:
+
+- Students should **not** use AI to generate answers to assignments, especially when the purpose is to develop critical thinking and problem-solving skills.
+
+3.	Plagiarism:
+
+- Copying and pasting AI-generated text without proper citation, even if AI contributed minimally, is considered **plagiarism**.
+
+4.	Fabricating Data or Results:
+
+- AI must not be used to create fake data, results, or analyses that misrepresent actual findings.
+
+## Guidelines for Ethical Use
+
+When using AI at the University level, please be sure to remember these key guidelines for ethical AI use:
+
+1.	**Transparency**: If you use AI tools for editing, organizing, or brainstorming, you must **disclose** this in your project documentation or acknowledgments.
+2.	**Instructor Approval**: When in doubt, you should consult with the instructor about whether a specific use of AI is permissible for a given assignment.
+3.	**Cite AI Contributions**: If you use AI for brainstorming or editing, you should acknowledge its role (e.g., “This text was reviewed and refined with the assistance of AI-based proofreading tools”).
+4.	**Focus on Learning**: Use AI as a learning tool rather than a shortcut, ensuring that you fully understand the material and can demonstrate your knowledge independently.
+5.	**Critical Evaluation**: Any content or suggestion from AI should be critically evaluated by the student for accuracy, relevance, and appropriateness to their work.
+
+## Assignment
+
+In this assignment, you will use AI to support the editing of your manuscript in an ethical manner - as a tool to help you learn to revise written work. Do **NOT** use this tool to write your manuscript - it is very easy to identify when students use AI for writing *AND* I will be using software to test for the use of AI. **Using AI to draft text, will result in a 0 for the assignment.**
+
+### Download and install ChatGPT or use a web browser
+
+1. Access ChatGPT on a Web Browser
+	- No Installation Required! The free version of ChatGPT does not require downloading or installation.
+	- Steps:
+	1.	Open a web browser (e.g., Chrome, Firefox, Safari).
+	2.	Visit ChatGPT’s website.
+	3.	Log in using an existing account, or sign up for free using an email address, Google account, or Microsoft account.
+
+2. Use ChatGPT on Mobile
+	- Mobile-Friendly Website:
+	
+	- Simply visit chat.openai.com on your mobile browser and log in.
+	- Mobile Apps (Optional):
+	- OpenAI offers official apps for ChatGPT on iOS and Android devices. Here’s how to download them:
+	- iPhone/iPad:
+  	1.	Open the App Store.
+  	2.	Search for “ChatGPT” by OpenAI.
+  	3.	Tap Download and install the app. 
+  	
+	- Android Devices:
+	1.	Open the Google Play Store.
+	2.	Search for “ChatGPT” by OpenAI.
+	3.	Tap Install to download the app.
+
+### Use ChatGPT to revise your methods section
+
+Last time, you drafted your methods section. Today, let's use ChatGPT to work through the editing process. Enter your methods into ChatGPT and try the following prompts. Take notes on the suggested revisions. Then, make the suggested edits. **Please be sure to work in tracked changes (word) or suggestions (google).**
+
+**Prompts to use with ChatGPT on the methods section**:
+
+- Prompt: “Please review this section for clarity and structure. Identify areas where the arguments could be better organized or clarified, but don’t rewrite the content.”
+
+- Prompt: “Point out grammatical errors, awkward phrasing, or sentence structure issues in this paragraph. Suggest why these might be problematic and how I might fix them.”
+
+- Prompt: “Does this essay maintain an academic tone throughout? Are there areas where the tone is too informal or inconsistent? Provide suggestions for improvement.”
+
+**Potential prompts to use for other sections**:
+
+- Prompt: “Does my paragragh statement clearly present the main argument? Are the supporting arguments logically connected to the topic? Suggest improvements but don’t provide a rewrite.”
+
+-	Prompt: “Are my citations properly integrated and do they effectively support my arguments? If not, suggest where I could add more evidence or improve the integration.”
+
+- Prompt: “Based on this manuscript, what questions might a reader still have about my argument or evidence? Suggest where I might clarify or expand my ideas.”
+
+- Prompt: “What are the main strengths and weaknesses of this manuscript? Provide constructive feedback that I can use to improve, but don’t make changes to the text.”
+
+#### Take notes on edits
+
+Take notes on ChatGPT’s suggestions and decide which to implement and how. 
+
+#### Create edtis
+
+Based on ChatGPT's feedback, make edits to your paper using tracked changes.
+
+### Write an AI statement for your Acknowledgements
+
+In your acknowledgements, you have the opportunity to thank anyone who has helped or contributed to the completion of your project. For this project, for example, you could thank Mary DeJong for teaching you about the literature review process. In a traditional paper, this is also where you declare funding sources. For your work in this class, you may choose to use AI according to the guidelines described above, but you must give credit for this support! In addition to your edits, please write a 'Declaration of AI Use' statement. 
+
+Here is an example statement that you can use as a model for your declaration: This project acknowledges the use of artificial intelligence (AI) tools during its development as follows: 1)	Brainstorming and Ideation: AI-assisted tools, including ChatGPT, were used for brainstorming ideas and generating outlines. All content generated was critically reviewed and revised by the author(s) to align with the project’s objectives and requirements. 2)	Proofreading and Editing: AI-based tools, such as ChatGPT, were used to review grammar, style, and clarity. Final edits were made by the author(s) to ensure the originality and accuracy of the work.
+	
+## Key guidelines for using AI in class
+
+Please remember that AI use during college should be used as a tool to support the learning process. The goal of education is to learn, not to produce perfect products. Assignments like this are meant to train you with specific skills that you can use in the future. Using AI to help your learning is awesome, but please use this tool responsibly and ethically. Take note of ChatGPT’s suggestions and decide which to implement and how. You may not always agree with suggestion from AI tools - that's great - you are developing your own writing style and philosophy of writing.
+
+Remember to always double-check AI suggestions, especially for academic writing or technical subjects. From experience, AI often generates inaccurate or vague statements regarding scientific content. 
+
+## Deliverables
+
+Please turn in a document with brief notes about the edits that need to be made to your methods, your edited methods (with tracked changes), and a statement about how you used AI in your work.
+
+
+
+
