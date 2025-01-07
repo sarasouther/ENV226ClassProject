@@ -6,7 +6,7 @@ This week we will be visited by a Cline Librarian, who will go over the basics o
 
 Please work through the tutorial prior to the library visit, and download your worksheet to turn in:
 
-- Got to the [Cline library tutorial](https://sites.google.com/nau.edu/info-lit-advanced/lessons) and work through the tutorial.
+- Go to the [Cline library tutorial](https://sites.google.com/nau.edu/info-lit-advanced/lessons) and work through the tutorial.
 - [Document to complete](https://drive.google.com/uc?export=download&id=1LGcgDU4sfomkIh9pxLoEJ07ddrIHOPsv)
 
 ## Learning objectives
@@ -100,27 +100,27 @@ Once you have select a database to search, you must develop search terms.
 
 Three-step process for building search terms:
 
-	1.	Select essential keywords: Focus on the fewest, most critical terms that represent the topic.
-	2.	Gather synonyms: Expand the search with alternative terms to cover variations in language or phrasing.
-	3.	Use Boolean searches: Combine keywords and synonyms with operators like AND, OR, and NOT to refine and broaden searches effectively.
+1.	Select essential keywords: Focus on the fewest, most critical terms that represent the topic.
+2.	Gather synonyms: Expand the search with alternative terms to cover variations in language or phrasing.
+3.	Use Boolean searches: Combine keywords and synonyms with operators like AND, OR, and NOT to refine and broaden searches effectively.
 
 Make decisions about database parameters. Each database should like you make the following decisions about how you search the database:
 
-	- Field-specific searching: Target keywords in specific parts of records (e.g., titles, abstracts).
-	- Sorting options: Organize results by relevance, citation count, or publication date.
-	- Filters: Narrow results by language, publication type, date, or population group (e.g., human studies in PubMed).
+1. Field-specific searching: Target keywords in specific parts of records (e.g., titles, abstracts).
+2. Sorting options: Organize results by relevance, citation count, or publication date.
+3. Filters: Narrow results by language, publication type, date, or population group (e.g., human studies in PubMed).
 	
 Specialized search techniques:
 
-	1.	Quotation marks: For exact phrases (e.g., "Grand Canyon").
-	2.	Asterisks: Capture word variations (e.g., comput* for compute, computing, computer).
-	3.	Filters in databases: Use discipline-specific filters to refine searches further (e.g., randomized controlled trials in PubMed).
+1.	Quotation marks: For exact phrases (e.g., "Grand Canyon").
+2.	Asterisks: Capture word variations (e.g., comput* for compute, computing, computer).
+3.	Filters in databases: Use discipline-specific filters to refine searches further (e.g., randomized controlled trials in PubMed).
 
 For other projects (not necessary for this project), if you would like to identify additional publications, you may choose to:
 
-	1.	Use citation chaining: Examine references cited in a paper or articles citing it.
-	2.	Identify related articles: Use tools like Google Scholar’s “Related Articles” to find similar studies.
-	3.	Employ author searches: Look for additional works by the same author(s) to explore their contributions further.
+1.	Use citation chaining: Examine references cited in a paper or articles citing it.
+2.	Identify related articles: Use tools like Google Scholar’s “Related Articles” to find similar studies.
+3.	Employ author searches: Look for additional works by the same author(s) to explore their contributions further.
 
 Remember that you can always seek librarian support, which can significantly save time and improve search quality. When you write your methods, you will need to explicitly detail the terms you searched, including Boolean operators, synonyms, asterisk, and quotes. If you do not include this information, you will not receive full points, so please document your search carefully.
 
@@ -130,7 +130,9 @@ For this project, you will conduct a search, refine your question based on searc
 
 1. Select a database: Scopus, Web of Science
 2. Using the methods described above (Boolean operators, etc), search the database.
-3. Refine your search: You are aiming to review 20 - 100 papers. If your search is too broad, you will return too many papers. In order to reduce this number, try adding additional criteria, such as:
+3. Refine your search: You are aiming to review 20 - 100 papers. 
+
+If your search is too broad, you will return too many papers. In order to reduce this number, try adding additional criteria, such as:
 
 - Add a place. i.e., Colorado Plateau, Southwest, Arizona
 - Add a global change component. i.e. How are bird migrations expected to shift as a function of climate change?
