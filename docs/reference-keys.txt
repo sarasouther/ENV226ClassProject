@@ -22,6 +22,9 @@ literature-review-or-meta-analysis
 opinion-piece-or-case-study
 read-the-discussion
 deliverables-1
+developing-a-topic
+procedure
+deliverables-2
 literature-search
 downloads-3
 learning-objectives-1
@@ -31,9 +34,6 @@ importance-of-information-literacy
 takeaways
 databases
 search-terms
-procedure
-deliverables-2
-developing-a-topic
 procedure-1
 deliverables-3
 citation-management
@@ -81,10 +81,10 @@ deliverables-9
 scientific-manuscripts-and-introductions
 structuring-a-scientific-manuscript
 title-abstract-and-acknowledgements
-critiquing-writing-and-revising
 discussion-and-conclusions
 presentations
 downloads-5
+critiquing-writing-and-revising
 providing-constructive-feedback
 downloads-6
 deliverables-10

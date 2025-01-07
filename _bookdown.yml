@@ -8,8 +8,8 @@ rmd_files: [
   "index.Rmd",
   "01-intro.Rmd",
   "02-readingscientificpapers.Rmd",
-  "03-literaturesearch.Rmd",
-  "04-initialprojectideation.Rmd",
+  "03-initialprojectideation.Rmd",
+  "04-literaturesearch.Rmd",
   "05-usingacitationmanagers.Rmd",
   "06-codingtables.Rmd",
   "07-methods.Rmd",
@@ -17,8 +17,8 @@ rmd_files: [
   "09-results.Rmd",
   "10-creatingfigures.Rmd",
   "11-scientificmanuscriptsintroductions.Rmd",
-  "12-critiquingwritingrevising.Rmd",
-  "13-discussionconclusions.Rmd",
-  "14-developingpresentations.Rmd",
+  "12-discussionconclusions.Rmd",
+  "13-developingpresentations.Rmd",
+  "14-critiquingwritingrevising.Rmd",
   "15-feedbackpresentations.Rmd"
 ]
