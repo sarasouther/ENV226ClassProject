@@ -1,43 +1,65 @@
 # Critiquing writing and revising
 
-Summary for Class Presentation on Scientific Writing
+## Key Points on Scientific Writing
 
-Key Points on Scientific Writing:
-	1.	Conciseness and Precision:
-	•	Avoid needless words and overly complex phrases.
-	•	Replace multi-word phrases with simpler equivalents (e.g., “due to the fact that” → “because”).
-	•	Use precise scientific language when describing concepts or findings.
-	2.	Clarity and Simplicity:
-	•	Prefer straightforward words over complex ones (e.g., “used” instead of “utilized”).
-	•	Simplify sentences by reducing passive voice and ensuring the subject performs the action (active voice preferred).
-	3.	Cohesion and Coherence:
-	•	Ensure logical transitions between sentences and ideas (cohesion).
-	•	Maintain focus on the main topic within each paragraph, with a clear opening and closing sentence (coherence).
-	•	Use ‘thought-chaining,’ where the last idea in one sentence leads to the first idea in the next.
-	4.	Effective Sentence Structure:
-	•	Keep subjects close to their verbs to avoid reader confusion.
-	•	Use simple subjects, splitting complex ones into multiple sentences if needed.
-	5.	Emphasizing Important Information:
-	•	Begin sentences with familiar (old) information and place new information at the end.
-	•	Highlight key points in the first and last sentences of each paragraph.
-	6.	Adjective and Adverb Usage:
-	•	Use adjectives and adverbs sparingly to avoid unnecessary embellishments.
-	•	Remove overused modifiers like “very” and “extremely” unless essential.
-	7.	Citing and Avoiding Plagiarism:
-	•	Always rephrase ideas in your own words.
-	•	Properly attribute all sources; avoid quoting directly unless absolutely necessary.
+1.	Conciseness and Precision:
 
-Revision Techniques:
-	•	Search and replace wordy phrases or overly complex language.
-	•	Simplify subjects and rephrase sentences to bring clarity.
-	•	Review first and last sentences of paragraphs to ensure they match and reinforce the main idea.
-	•	Highlight adjectives and adverbs, removing any that don’t add meaningful value.
+- Avoid needless words and overly complex phrases.
+- Replace multi-word phrases with simpler equivalents (e.g., “due to the fact that” → “because”).
+- Use precise scientific language when describing concepts or findings.
 
-Activity for Students:
-	•	Step 1: Revise a draft of your work to remove redundant words and simplify language.
-	•	Step 2: Identify instances of passive voice and rewrite sentences in active voice.
-	•	Step 3: Ensure logical flow and coherence by revisiting paragraph structure and transitions.
-	•	Step 4: Highlight new and old information in your sentences, restructuring for emphasis where needed.
-	•	Step 5: Proofread for proper citation and adherence to scientific writing principles.
+2.	Clarity and Simplicity:
 
-This approach will guide students in refining their writing for clarity, precision, and professional presentation. Following the lecture, students will have an opportunity to edit their drafts based on these principles.
+- Prefer straightforward words over complex ones (e.g., “used” instead of “utilized”).
+- Simplify sentences by reducing passive voice and ensuring the subject performs the action (active voice preferred).
+
+3.	Cohesion and Coherence:
+
+- Ensure logical transitions between sentences and ideas (cohesion).
+- Maintain focus on the main topic within each paragraph, with a clear opening and closing sentence (coherence).
+- Use ‘thought-chaining,’ where the last idea in one sentence leads to the first idea in the next.
+
+4.	Effective Sentence Structure:
+
+- Keep subjects close to their verbs to avoid reader confusion.
+- Use simple subjects, splitting complex ones into multiple sentences if needed.
+
+5.	Emphasizing Important Information:
+
+- Begin sentences with familiar (old) information and place new information at the end.
+- Highlight key points in the first and last sentences of each paragraph.
+
+6.	Adjective and Adverb Usage:
+
+- Use adjectives and adverbs sparingly to avoid unnecessary embellishments.
+- Remove overused modifiers like “very” and “extremely” unless essential.
+
+7.	Citing and Avoiding Plagiarism:
+
+- Always rephrase ideas in your own words.
+- Properly attribute all sources; avoid quoting directly unless absolutely necessary.
+
+## Revision Techniques
+
+- Search and replace wordy phrases or overly complex language.
+- Simplify subjects and rephrase sentences to bring clarity.
+- Review first and last sentences of paragraphs to ensure they match and reinforce the main idea.
+- Highlight adjectives and adverbs, removing any that don’t add meaningful value.
+
+## Activity
+
+Select a section of your manuscript that could use revision, then provide revisions in tracked changes. Using the revision techniques covered in class, please review and:
+
+Step 1: Remove redundant words and simplify language.
+Step 2: Identify instances of passive voice and rewrite sentences in active voice.
+Step 3: Ensure logical flow and coherence by revisiting paragraph structure and transitions.
+Step 4: Highlight new and old information in your sentences, restructuring for emphasis where needed.
+Step 5: Proofread for proper citation and adherence to scientific writing principles.
+
+## Deliverables
+
+Submit a paragraph that you revised with tracked changes or google suggestions. For maximum efficiency, each group member could work on a separate paragraph.
+
+## Submission
+
+You will be turning your final papers in on the last day of the semester. Please be sure to give your entire manuscript a thorough review for readabilty and flow!

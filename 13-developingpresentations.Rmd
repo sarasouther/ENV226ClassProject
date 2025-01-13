@@ -1,88 +1,99 @@
 # Presentations
 
-How-To: Assemble a High-Quality Scientific Presentation
+You will be giving a presentation to the class about your research project and critiquing your classmates presentations. Please review the presentation rubric provided below.
 
 ## Downloads
-Presentation rubric
 
-Overview of Presentation Platforms
+[Presentation rubric](https://docs.google.com/document/d/12RUkj5QqOhGRwmrotx9g2UdvrbBbXwyw/export?format=docx)  
+[Sign Up for Presentation Slots](https://docs.google.com/document/d/1iouzGxzseHAbi_LX3FhJ2O8pvvNLvnCf1vkgWdFSrTs/edit?usp=sharing)
+
+### Overview of presentation platforms
 
 Before diving into how to craft a compelling scientific presentation, it’s important to choose the right platform. Popular platforms include:
-	•	PowerPoint: A versatile and widely used tool for creating professional presentations with extensive customization options.
-	•	Canva: A user-friendly, web-based platform with pre-designed templates and visually appealing graphics.
-	•	Google Slides: A collaborative platform great for team projects and real-time edits, with basic design features.
-	•	Prezi: For non-linear presentations that emphasize visual storytelling and dynamic motion paths.
-	•	Keynote: Exclusive to Apple devices, offering clean, professional design options.
 
-Each platform has its strengths, so select one that matches your style and the presentation’s requirements.
+- PowerPoint: A versatile and widely used tool for creating professional presentations with extensive customization options.
+- Canva: A user-friendly, web-based platform with pre-designed templates and visually appealing graphics.
+- Google Slides: A collaborative platform great for team projects and real-time edits, with basic design features.
+- Prezi: For non-linear presentations that emphasize visual storytelling and dynamic motion paths.
+- Keynote: Exclusive to Apple devices, offering clean, professional design options.
 
-Steps to Assemble a High-Quality Scientific Presentation
+### Steps to assemble a scientific presentation
 
-1. Plan Your Content
-	•	Define Your Objective: Know the purpose of your presentation—inform, persuade, or engage your audience.
-	•	Identify Key Points: Focus on 3-5 main points to ensure clarity and retention.
-	•	Understand Your Audience: Tailor content to the background knowledge and interests of your audience (e.g., peers, professors, or a general audience).
+#### Plan Your Content
 
-2. Structure Your Presentation
-	•	Title Slide:
-	•	Title of the presentation.
-	•	Your name, affiliation, and date.
-	•	Introduction:
-	•	Clearly state your research question or topic.
-	•	Provide brief context or background information.
-	•	Mention the objectives of your study or talk.
-	•	Methods:
-	•	Explain the methodology concisely.
-	•	Use diagrams or flowcharts to simplify complex processes.
-	•	Results:
-	•	Highlight key findings with graphs, charts, or visuals.
-	•	Avoid overloading slides with data—focus on takeaways.
-	•	Discussion:
-	•	Interpret your findings in the context of existing knowledge.
-	•	Emphasize the significance and implications of your results.
-	•	Conclusion:
-	•	Summarize your key points.
-	•	Suggest future directions or practical applications.
-	•	Acknowledgments:
-	•	Credit collaborators, funding sources, and supporting institutions.
-	•	References (if applicable):
-	•	Cite critical sources used in your presentation.
+-	Define Your Objective: Know the purpose of your presentation—inform, persuade, or engage your audience.
+- Identify Key Points: Focus on 3-5 main points to ensure clarity and retention.
+- Understand Your Audience: Tailor content to the background knowledge and interests of your audience (e.g., peers, professors, or a general audience).
 
-3. Design Your Slides
-	•	Use Visuals:
-	•	Prioritize graphs, charts, and images over text.
-	•	Ensure visuals are high-resolution and labeled clearly.
-	•	Keep It Simple:
-	•	Follow the “6x6 rule”: No more than 6 words per bullet and 6 bullets per slide.
-	•	Use plenty of white space for readability.
-	•	Maintain Consistency:
-	•	Choose a professional theme and stick to a color palette.
-	•	Use consistent font types and sizes (e.g., 28-point for headings, 24-point for body text).
-	•	Engage With Animations Sparingly:
-	•	Use animations only to emphasize key points or reveal complex data step-by-step.
+#### Structure Your Presentation
 
-4. Practice Clear Communication
-	•	Rehearse Your Delivery:
-	•	Practice multiple times to refine timing and fluency.
-	•	Record yourself to identify areas for improvement.
-	•	Engage With the Audience:
-	•	Maintain eye contact, use natural gestures, and vary your tone.
-	•	Prepare for questions by anticipating potential queries related to your work.
+- **Title Slide**:
+  - Title of the presentation.
+	- Your name, affiliation, and date.
+- **Introduction**:
+	- Clearly state your research question or topic.
+	- Provide brief context or background information.
+	- Mention the objectives of your study or talk.
+- **Methods**:
+	- Explain the methodology concisely.
+	- Use diagrams or flowcharts to simplify complex processes.
+- **Results**:
+	- Highlight key findings with graphs, charts, or visuals.
+	- Avoid overloading slides with data—focus on takeaways.
+- **Discussion**:
+	- Interpret your findings in the context of existing knowledge.
+	- Emphasize the significance and implications of your results.
+- **Conclusion**:
+	- Summarize your key points.
+	- Suggest future directions or practical applications.
+- **Acknowledgments**:
+	- Credit collaborators, funding sources, and supporting institutions.
+	- References (if applicable):
+	- Cite critical sources used in your presentation.
 
-5. Final Checks
-	•	Proofread Slides: Look for typos, inconsistencies, and technical inaccuracies.
-	•	Check Formatting: Ensure slides appear correctly on the chosen platform and on different devices (e.g., projector, laptop).
-	•	Test Technology:
-	•	Test your presentation in the actual venue if possible.
-	•	Bring backups on a USB drive and email a copy to yourself.
+#### Design Your Slides
 
-Tips for an Effective Presentation
-	1.	Start Strong: Open with an interesting fact, a question, or a brief anecdote to grab attention.
-	2.	Stay On Time: Stick to the allocated time and pace yourself.
-	3.	Make Data Memorable: Use color and contrast in graphs to emphasize key findings.
-	4.	End With Impact: Leave the audience with a clear take-home message.
+- **Use Visuals**:
 
-By following these steps and tips, students can create professional, engaging scientific presentations that effectively communicate their research and ideas.
+	- Prioritize graphs, charts, and images over text.
+	- Ensure visuals are high-resolution and labeled clearly.
+	
+- **Keep It Simple**:
+
+	- Follow the “6x6 rule”: No more than 6 words per bullet and 6 bullets per slide.
+	- Use plenty of white space for readability.
+	- Maintain Consistency:
+	- Choose a professional theme and stick to a color palette.
+	- Use consistent font types and sizes (e.g., 28-point for headings, 24-point for body text).
+	- Engage With Animations Sparingly:
+	- Use animations only to emphasize key points or reveal complex data step-by-step.
+
+#### Practice Clear Communication
+
+- **Rehearse Your Delivery**:
+
+	- Practice multiple times to refine timing and fluency.
+	- Record yourself to identify areas for improvement.
+
+- **Engage With the Audience**:
+
+	- Maintain eye contact, use natural gestures, and vary your tone.
+	- Prepare for questions by anticipating potential queries related to your work.
+
+#### Tips for an Effective Presentation
+
+For particular good presentations, here are a few tips:
+
+1.	Start Strong: Open with an interesting fact, a question, or a brief anecdote to grab attention.
+2.	Stay On Time: Stick to the allocated time and pace yourself.
+3.	Make Data Memorable: Use color and contrast in graphs to emphasize key findings.
+4.	End With Impact: Leave the audience with a clear take-home message.
+
+## Deliverables
+
+Please submit any **slides** that you have developed during your class work time and **sign up** for your presentation time slot, using the link above. For the final presentation, you will either need to send me **a link to your presentation at least 3 hours prior to class** OR bring your presentation to class on an **USB drive at least 5 minutes before class begins** on the day of your presentation.
+
+
 
 
 
