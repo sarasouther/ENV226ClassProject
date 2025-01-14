@@ -6,8 +6,8 @@ The key parts of this process are to develop the .csv file that can be imported 
 
 ## Downloads
 
-[Download R Code](https://drive.google.com/uc?export=download&id=1AtGtr3qm1StBYx4e6kJMAHuTSa7gp-Cz)
-[Download the example CSV File](https://drive.google.com/uc?export=download&id=1BDFRihyVe6S7pPkSnhNTCRWnXyysQQ4S)
+- [Download R Code](https://drive.google.com/uc?export=download&id=1AtGtr3qm1StBYx4e6kJMAHuTSa7gp-Cz)
+- [Download the example CSV File](https://drive.google.com/uc?export=download&id=1BDFRihyVe6S7pPkSnhNTCRWnXyysQQ4S)
 
 ## Deliverables
 

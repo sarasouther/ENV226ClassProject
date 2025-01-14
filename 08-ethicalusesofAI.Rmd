@@ -63,27 +63,29 @@ In this assignment, you will use AI to support the editing of your manuscript in
 ### Download and install ChatGPT or use a web browser
 
 1. Access ChatGPT on a Web Browser
-	- No Installation Required! The free version of ChatGPT does not require downloading or installation.
-	- Steps:
-	1.	Open a web browser (e.g., Chrome, Firefox, Safari).
-	2.	Visit ChatGPT’s website.
-	3.	Log in using an existing account, or sign up for free using an email address, Google account, or Microsoft account.
+	- No Installation Required! The free version of ChatGPT does not require downloading or installation:
+	
+    	1.	Open a web browser (e.g., Chrome, Firefox, Safari).
+    	2.	Visit ChatGPT’s website.
+    	3.	Log in using an existing account, or sign up for free using an email address, Google account, or Microsoft account.
 
 2. Use ChatGPT on Mobile
 	- Mobile-Friendly Website:
 	
-	- Simply visit chat.openai.com on your mobile browser and log in.
+	    - Simply visit chat.openai.com on your mobile browser and log in.
+	    
 	- Mobile Apps (Optional):
-	- OpenAI offers official apps for ChatGPT on iOS and Android devices. Here’s how to download them:
-	- iPhone/iPad:
-  	1.	Open the App Store.
-  	2.	Search for “ChatGPT” by OpenAI.
-  	3.	Tap Download and install the app. 
-  	
-	- Android Devices:
-	1.	Open the Google Play Store.
-	2.	Search for “ChatGPT” by OpenAI.
-	3.	Tap Install to download the app.
+	
+    	- OpenAI offers official apps for ChatGPT on iOS and Android devices. Here’s how to download them:
+    	- iPhone/iPad:
+          	1.	Open the App Store.
+          	2.	Search for “ChatGPT” by OpenAI.
+          	3.	Tap Download and install the app. 
+      	
+    	- Android Devices:
+          	1.	Open the Google Play Store.
+          	2.	Search for “ChatGPT” by OpenAI.
+          	3.	Tap Install to download the app.
 
 ### Use ChatGPT to revise your methods section
 

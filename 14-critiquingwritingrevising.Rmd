@@ -50,11 +50,11 @@
 
 Select a section of your manuscript that could use revision, then provide revisions in tracked changes. Using the revision techniques covered in class, please review and:
 
-Step 1: Remove redundant words and simplify language.
-Step 2: Identify instances of passive voice and rewrite sentences in active voice.
-Step 3: Ensure logical flow and coherence by revisiting paragraph structure and transitions.
-Step 4: Highlight new and old information in your sentences, restructuring for emphasis where needed.
-Step 5: Proofread for proper citation and adherence to scientific writing principles.
+- Step 1: Remove redundant words and simplify language.
+- Step 2: Identify instances of passive voice and rewrite sentences in active voice.
+- Step 3: Ensure logical flow and coherence by revisiting paragraph structure and transitions.
+- Step 4: Highlight new and old information in your sentences, restructuring for emphasis where needed.
+- Step 5: Proofread for proper citation and adherence to scientific writing principles.
 
 ## Deliverables
 
