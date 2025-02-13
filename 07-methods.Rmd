@@ -10,7 +10,7 @@ The Methods section of a scientific paper explains how the research was conducte
 
 ## Step-by-Step Guide
 
-1. Define the Scope of Your Methods:
+Define the Scope of Your Methods:
 
 - What: Clearly outline the search terms, tools, or procedures used in your research. Include any software, equipment, or frameworks.
 	- Example: Search terms like "forest fires" AND "water quality" or Boolean operators like AND, OR.
@@ -18,47 +18,29 @@ The Methods section of a scientific paper explains how the research was conducte
 	- Example: “Searches were conducted from January 1 to March 31, 2024.”
 - Where: List the database(s) or tools utilized (e.g., PubMed, Web of Science, or field sampling locations).
 	- Example: “Data were collected using Scopus and analyzed using R statistical software.”
-- How: Describe the criteria for including or excluding sources or subjects.
+- How: Describe the criteria for including or excluding sources or subjects, how you identified themes, and any other procedural information.
 	- Example: “Studies were excluded if they lacked quantitative data or were not peer-reviewed.”
+  - Example: “Abstracts were rejected if they did not include geographic or temporal data on forest fires.”
+  - Example: Themes like “climate resilience” or “fire recovery.”
 
-2. Document the Process:
+*Key Tips*:
 
-- Describe Procedures Clearly
-	- Include sufficient detail to replicate the steps:
-	   - Search methods for literature (e.g., reading abstracts, rejecting irrelevant articles, coding data in a table).
-	   - Experimental protocols, statistical tests, or observational techniques.
-	   - Provide Rejection Criteria
-	   - State why certain papers, samples, or data points were excluded.
-	      - Example: “Abstracts were rejected if they did not include geographic or temporal data on forest fires.”
+For a great methods section, remember to:
 
-3. Identify Themes (for Systematic Reviews or Coding Studies):
-
-If you’re conducting a systematic review:
-
-	- Read abstracts and categorize articles based on their relevance to research themes.
-	- Record each decision and theme in a coding table.
-	   - Example: Themes like “climate resilience” or “fire recovery.”
-
-4. Use Visuals for Clarity:
-
-	- Tables, flowcharts, or diagrams can enhance understanding of complex methodologies.
-	  - Example: A decision flowchart showing the article selection process for a literature review.
-
-5. Be Precise and Use Standard Terminology
+- Structure your section logically:
+    - Break it into subsections with headings for clarity:
+    	  - Data Collection
+    	  - Classification
+    	  - Analysis
+    - Alternatively, you could keep it chronological: Describe the steps in the order they occurred.
+- Justify Your Choices: Explain why you chose specific methods over alternatives.
+- Be Transparent About Limitations: Acknowledge challenges in your methodology.
+- Be Precise and Use Standard Terminology
 	- Avoid ambiguous language. Use clear, concise sentences with technical terms where necessary.
 	  - Example: Instead of “a small number of samples,” specify “10 soil samples were collected.”
-
-6. Structure Your Section Logically
-	- Break it into subsections with headings for clarity:
-	  - Data Collection
-	  - Classification
-	  - Analysis
-
-Key Tips:
-
-	- Keep It Chronological: Describe the steps in the order they occurred.
-	- Justify Your Choices: Explain why you chose specific methods over alternatives.
-	- Be Transparent About Limitations: Acknowledge challenges in your methodology.
+- Remember to create your coding table:
+ - Read abstracts and categorize articles based on their relevance to research themes.
+ - Record each decision and theme in a coding table.
 
 ## Example Opening of a Methods Section
 
