@@ -28,11 +28,16 @@ Define the Scope of Your Methods:
 For a great methods section, remember to:
 
 - Structure your section logically:
+
     - Break it into subsections with headings for clarity:
+    
     	  - Data Collection
     	  - Classification
     	  - Analysis
-    - Alternatively, you could keep it chronological: Describe the steps in the order they occurred.
+    	  
+    - Within sections chronological: 
+    
+        - Describe the steps in the order they occurred.
 - Justify your choices: Explain why you chose specific methods over alternatives.
 - Be transparent about limitations: Acknowledge challenges in your methodology.
 - Be precise and use standard terminology
