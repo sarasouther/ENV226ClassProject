@@ -33,9 +33,9 @@ For a great methods section, remember to:
     	  - Classification
     	  - Analysis
     - Alternatively, you could keep it chronological: Describe the steps in the order they occurred.
-- Justify Your Choices: Explain why you chose specific methods over alternatives.
-- Be Transparent About Limitations: Acknowledge challenges in your methodology.
-- Be Precise and Use Standard Terminology
+- Justify your choices: Explain why you chose specific methods over alternatives.
+- Be transparent about limitations: Acknowledge challenges in your methodology.
+- Be precise and use standard terminology
 	- Avoid ambiguous language. Use clear, concise sentences with technical terms where necessary.
 	  - Example: Instead of “a small number of samples,” specify “10 soil samples were collected.”
 - Remember to create your coding table:
