@@ -77,6 +77,7 @@ example-structure
 deliverables-8
 creating-figures
 downloads-4
+procedure-2
 deliverables-9
 scientific-manuscripts-and-introductions
 structuring-a-scientific-manuscript

@@ -4,11 +4,38 @@ During the coding process, you noted aspects of the literature - when a manuscri
 
 The key parts of this process are to develop the .csv file that can be imported into R and with columns that correspond to the R code. Additionally, please develop appropriate figure legends, using the same guidelines that you have learned in lab:
 
+When presenting results in a scientific manuscript or report, figures will be accompanied by figure legends. A good figure legend provides the following information:
+
+1. A description of what the figure is showing you. 
+2. For complex figures with multiple panels, an orientation to the structure of the figure
+3. Explanation of any symbols, colors, and/or lines
+4. Description of how variance is quantified
+5. Definitions of axes or units, if unclear
+6. Acknowledgment of data source, if data source requires attribution
+7. Implications of the figure (optional)
+
+Here is an example figure legend of a hypothetical figure showing species richness as a function of temperature across ecosystems:
+
+**Figure 1.** Species richness increases with temperature across ecosystems. Panel A shows the mean species richness across three ecosystems: grassland (green), forest (blue), and desert (orange) from 2015 to 2020. Panel B depicts the temperature variation in these ecosystems during the same period. Circles represent data from 2015, while triangles represent data from 2020. The x-axis shows mean annual temperature (°C), and the y-axis shows species richness (number of species per 1000 m²). Error bars indicate ±1 standard deviation. The dashed line represents the best-fit linear regression (R² = 0.85, p < 0.05), showing a positive correlation between temperature and species richness.
+
 ## Downloads
 
 - [Download R Code](https://drive.google.com/uc?export=download&id=1AtGtr3qm1StBYx4e6kJMAHuTSa7gp-Cz)
 - [Download the example CSV File](https://drive.google.com/uc?export=download&id=1BDFRihyVe6S7pPkSnhNTCRWnXyysQQ4S)
 
+## Procedure
+
+Save a copy of your coding table as a .csv file. Once you have downloaded the R Script and the .csv file, use the .csv file as a model to format your coding table OR adjust the code to reflect the appropriate column names in your .csv file. Note that to make several of the codes run, you will need to add a column called 'Number' and fill the columns with 1s (a number 1 for each of your citations). If you want a figure of your themes, you will need to either choose a dominant theme for each paper or you will need to add additional rows for each theme.
+
+Example:
+
+- Nadler et al. Climate change 
+- Nadler et al. Sharks      
+- Nadler et al. Plants
+
+In the 'Number' column, you will need to include a 1 next to only one entry for each citation (doesn't matter which one) and 0s for the others. In other words, I would add 1 one for the first entry and zeros for the next two: Nadler et al. Climate change = 1, Nadler et al. Sharks = 0, Nadler et al. Plants = 0.
+
 ## Deliverables
 
 Turn in one figure with an appropriate figure legend.
+

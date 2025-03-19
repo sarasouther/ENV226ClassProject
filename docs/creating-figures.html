@@ -23,7 +23,7 @@
 <meta name="author" content="Dr. Sara Souther" />
 
 
-<meta name="date" content="2025-02-13" />
+<meta name="date" content="2025-03-19" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -177,7 +177,8 @@
 <li class="chapter" data-level="11" data-path="creating-figures.html"><a href="creating-figures.html"><i class="fa fa-check"></i><b>11</b> Creating figures</a>
 <ul>
 <li class="chapter" data-level="11.1" data-path="creating-figures.html"><a href="creating-figures.html#downloads-4"><i class="fa fa-check"></i><b>11.1</b> Downloads</a></li>
-<li class="chapter" data-level="11.2" data-path="creating-figures.html"><a href="creating-figures.html#deliverables-9"><i class="fa fa-check"></i><b>11.2</b> Deliverables</a></li>
+<li class="chapter" data-level="11.2" data-path="creating-figures.html"><a href="creating-figures.html#procedure-2"><i class="fa fa-check"></i><b>11.2</b> Procedure</a></li>
+<li class="chapter" data-level="11.3" data-path="creating-figures.html"><a href="creating-figures.html#deliverables-9"><i class="fa fa-check"></i><b>11.3</b> Deliverables</a></li>
 </ul></li>
 <li class="chapter" data-level="12" data-path="scientific-manuscripts-and-introductions.html"><a href="scientific-manuscripts-and-introductions.html"><i class="fa fa-check"></i><b>12</b> Scientific manuscripts and introductions</a>
 <ul>
@@ -239,6 +240,18 @@
 <h1><span class="header-section-number">Chapter 11</span> Creating figures<a href="creating-figures.html#creating-figures" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>During the coding process, you noted aspects of the literature - when a manuscript was published, where it was published and what themes the manuscripts addressed. In this section, you will create at least one figure showing trends or an aspect of your literature. Here you have R code that can be modified to generate figures showing aspects of the literature.</p>
 <p>The key parts of this process are to develop the .csv file that can be imported into R and with columns that correspond to the R code. Additionally, please develop appropriate figure legends, using the same guidelines that you have learned in lab:</p>
+<p>When presenting results in a scientific manuscript or report, figures will be accompanied by figure legends. A good figure legend provides the following information:</p>
+<ol style="list-style-type: decimal">
+<li>A description of what the figure is showing you.</li>
+<li>For complex figures with multiple panels, an orientation to the structure of the figure</li>
+<li>Explanation of any symbols, colors, and/or lines</li>
+<li>Description of how variance is quantified</li>
+<li>Definitions of axes or units, if unclear</li>
+<li>Acknowledgment of data source, if data source requires attribution</li>
+<li>Implications of the figure (optional)</li>
+</ol>
+<p>Here is an example figure legend of a hypothetical figure showing species richness as a function of temperature across ecosystems:</p>
+<p><strong>Figure 1.</strong> Species richness increases with temperature across ecosystems. Panel A shows the mean species richness across three ecosystems: grassland (green), forest (blue), and desert (orange) from 2015 to 2020. Panel B depicts the temperature variation in these ecosystems during the same period. Circles represent data from 2015, while triangles represent data from 2020. The x-axis shows mean annual temperature (°C), and the y-axis shows species richness (number of species per 1000 m²). Error bars indicate ±1 standard deviation. The dashed line represents the best-fit linear regression (R² = 0.85, p &lt; 0.05), showing a positive correlation between temperature and species richness.</p>
 <div id="downloads-4" class="section level2 hasAnchor" number="11.1">
 <h2><span class="header-section-number">11.1</span> Downloads<a href="creating-figures.html#downloads-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <ul>
@@ -246,8 +259,20 @@
 <li><a href="https://drive.google.com/uc?export=download&amp;id=1BDFRihyVe6S7pPkSnhNTCRWnXyysQQ4S">Download the example CSV File</a></li>
 </ul>
 </div>
-<div id="deliverables-9" class="section level2 hasAnchor" number="11.2">
-<h2><span class="header-section-number">11.2</span> Deliverables<a href="creating-figures.html#deliverables-9" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="procedure-2" class="section level2 hasAnchor" number="11.2">
+<h2><span class="header-section-number">11.2</span> Procedure<a href="creating-figures.html#procedure-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Save a copy of your coding table as a .csv file. Once you have downloaded the R Script and the .csv file, use the .csv file as a model to format your coding table OR adjust the code to reflect the appropriate column names in your .csv file. Note that to make several of the codes run, you will need to add a column called ‘Number’ and fill the columns with 1s (a number 1 for each of your citations). If you want a figure of your themes, you will need to either choose a dominant theme for each paper or you will need to add additional rows for each theme.</p>
+<p>Example:</p>
+<ul>
+<li>Nadler et al. Climate change</li>
+<li>Nadler et al. Sharks<br />
+</li>
+<li>Nadler et al. Plants</li>
+</ul>
+<p>In the ‘Number’ column, you will need to include a 1 next to only one entry for each citation (doesn’t matter which one) and 0s for the others. In other words, I would add 1 one for the first entry and zeros for the next two: Nadler et al. Climate change = 1, Nadler et al. Sharks = 0, Nadler et al. Plants = 0.</p>
+</div>
+<div id="deliverables-9" class="section level2 hasAnchor" number="11.3">
+<h2><span class="header-section-number">11.3</span> Deliverables<a href="creating-figures.html#deliverables-9" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Turn in one figure with an appropriate figure legend.</p>
 
 </div>
