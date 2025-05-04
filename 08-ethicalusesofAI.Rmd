@@ -6,6 +6,7 @@ AI tools, such as ChatGPT and other language models, can be valuable resources w
 
 1.	Editing and Proofreading:
 
+- NEVER USE AI TO GENERATE TEXT
 - You may use AI to check grammar, punctuation, and sentence structure.
 - AI can help refine writing by suggesting more concise or clearer ways to express ideas.
 - *Important*: When editing and proofreading, you must include prompts that ask AI not to simply generate new text for you. See below.
