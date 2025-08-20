@@ -73,21 +73,4 @@ As with all scientific writing, be sure that it is:
 
 ## Deliverables
 
-Create the overall structure of your manuscript, including your title page. Your outline should include the following components in this order:
-
-1. Title page
-  - Title
-  - Full names of group members
-  - Abstract
-2. Manuscript body
-  - Introduction
-  - Methods
-  - Results
-  - Discussion ending in Conclusions
-3. Tables and Figures
-  - Tables referenced within the text with appropriate title
-  - Figures references within the text with appropriate legend
-4. Acknowledgements
-5. Literature Cited
-
-Also, start to draft your introduction, generating at least developing a compelling first sentence to set the stage of your manuscript. Please turn-in your manuscript outline with the first sentence of your introduction (if you get farther along - that's great too!)
+Draft your introduction and submit on canvas. The introduction does not need to be lengthy: It should be between 1 - 2 pages.
