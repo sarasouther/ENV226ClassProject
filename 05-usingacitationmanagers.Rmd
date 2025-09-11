@@ -12,12 +12,12 @@ Students will set up a Zotero account, install the necessary tools, and learn ho
 
 - Have a Zotero account.
 - Install the Zotero desktop app and browser extension.
-- Create and share a Zotero group library with their team members.
+- Create and share a Zotero group library with their team members (Optional).
 - Add references to their shared library and organize them into folders.
 	
 ## Step-by-Step Instructions
 
-Follow this step-by-step process to set up a Zotero account and start managing your citations:
+Follow this step-by-step process to set up a Zotero account and start managing your citations (Note that software updates may change the specific directions for setting up a Zotero account and connector. If this happens, please search instructions on the web to complete the assignment):
 
 1. Create a Zotero Account:
 
@@ -38,7 +38,7 @@ Follow this step-by-step process to set up a Zotero account and start managing y
 - From the same download page, install the Zotero Connector for your web browser (Chrome, Firefox, Edge, or Safari).
 - The connector allows you to save references directly from your browser to Zotero.
 
-4. Set Up a Group Library:
+4. Set Up a Group Library (Optional):
 
 - Open Zotero Desktop App and log in with your Zotero account.
 - Click the “New Group” icon (folder icon with a green plus) in the top-left corner.
@@ -56,7 +56,7 @@ Last time, you completed a literature search and should have downloaded a RIS fi
 - Choose the option to import into a new collection, and name it based on your project or topic.
 - Verify that the references were successfully added to Zotero.
 
-6.	Set up a shared group library in Zotero if you’re working in a group:
+6.	Set up a shared group library in Zotero if you’re working in a group (Optional):
 
  - In Zotero, go to File > New Group, create a new group, and invite your group members.
  
@@ -100,14 +100,11 @@ Please install the Zotero Plugin for Word or Google Docs. Then, practice adding 
 
 ## Activity:
 
-1.	Individual Task:
+Each student should:
 	
-	 - Each student sets up their Zotero account and installs the tools.
-	 
-2.	Group Task:
-	
-	 - One group member creates the shared library and invites the others.
-	 - If necessary, repeat your search from last time, and export an RIS file
+	 - Set up their Zotero account and installs the tools.
+	 - One group member creates the shared library and invites the others (Optional).
+	 - If necessary, repeat your search from last time, and export an RIS file (If you don't have your RIS file yet, just find and import a citation)
 	 - Import the citations (RIS file) into Zotero.
 	 - Groups plan to organize references moving forward.
 
@@ -121,8 +118,5 @@ Tips for Success:
 
 Each student should submit to canvas:
 
-1.	A screenshot of their shared Zotero library showing:
-	 - Group name.
-	 - Members.
-	 - References.
+1.	A screenshot of their shared Zotero library showing at least one reference.
 
