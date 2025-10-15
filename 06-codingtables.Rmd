@@ -17,14 +17,16 @@ In the previous weeks of class, you have developed a research question, conducte
 
 ### Design Your Coding Table
 
-Create a spreadsheet or table with the following features:
+You will create a coding table to organize your literature review. Each coding table will consist of:
 
 - Rows: Each row represents a single source or citation.
-- Columns: Each column corresponds to a theme, factor, or piece of information you are extracting from the study (e.g., climate, disease dynamics, disturbance proximity, methods used, study location).
+- Columns: Each column corresponds to a peice of information that you are extracting from each citation, like themes within the literature (climate, disease dynamics, disturbance proximity) or information about the study (e.g., methods used, study location).
 
-For ease, modify the excel file that you downloaded. Much of the information from the file can be deleted for ease of review, but retain: the citation, date of publication, and location of publication, or any other information that you would like to capture to describe the state of literature related to your topic.
+Start by modifying the excel file that you downloaded. Much of the information from the file can be deleted for ease of review, but retain: the citation, date of publication, and location of publication, or any other information that you would like to capture to describe the state of literature related to your topic. You will use this information to produce figures describing your literature later in the semester. You can also add columns here if you want to describe other aspects of the literature that you reviewed.
 
-Developing themes in a systematic literature review involves identifying patterns, concepts, and recurring ideas across multiple studies to synthesize findings meaningfully. The process begins by reading and coding the articles, focusing on key aspects such as research questions, methodologies, findings, and limitations. As you review the data, group similar ideas into preliminary categories. For instance, studies on ecological restoration might reveal themes like “restoration techniques,” “biodiversity outcomes,” or “climate adaptation.” Iteratively refine these categories as you read more, ensuring they accurately reflect the breadth and nuances of the literature. Use tools like spreadsheets, qualitative coding software, or conceptual mapping to organize and visualize these themes. Lastly, critically analyze the themes to identify gaps, contradictions, or emerging trends, which can guide your synthesis and highlight areas for future research. The goal is to develop themes that capture the essence of the body of work while remaining flexible enough to adapt to new insights as the review progresses.
+Then, add a 'Reject or keep' column and a 'Rejection reason' column. For the first, indicate whether you reject or retain the citation. If rejecting, write out the reason (i.e., focused on agriculture (if you are working in wild systems), focused on human health not ecosystem health). This will allow you to write your methods and results in which you describe your rejection criteria and what literature you rejected.
+
+Finally, add 3 - 5 columns describing themes within your literature. Developing themes in a systematic literature review involves identifying patterns, concepts, and recurring ideas across multiple studies to synthesize findings meaningfully. The process begins by reading and coding the articles, focusing on key aspects such as research questions, methodologies, findings, and limitations. As you review the data, group similar ideas into preliminary categories. For instance, studies on ecological restoration might reveal themes like “restoration techniques,” “biodiversity outcomes,” or “climate adaptation.” Iteratively refine these categories as you read more, ensuring they accurately reflect the breadth and nuances of the literature. Use tools like spreadsheets, qualitative coding software, or conceptual mapping to organize and visualize these themes. Lastly, critically analyze the themes to identify gaps, contradictions, or emerging trends, which can guide your synthesis and highlight areas for future research. The goal is to develop themes that capture the essence of the body of work while remaining flexible enough to adapt to new insights as the review progresses.
 
 ### Build your coding table
 
@@ -40,7 +42,20 @@ Once you have populated your table, you can use it to:
 
 ### Deliverables
 
-Please turn in a screen shot of your coding table structure, and a brief description of the how you plan to review your literature, including how you will divide up the work among classmates and a timeline for completing the review.
+Please turn in your coding table, with complete information for the following columns: 
+
+1. Citation
+2. Keep or reject
+3. Reason for rejection
+4. Year of publication
+5. Location of study
+6. Three - five themes that arise from your review 
+
+**Note**: You can have additional columns with more information about the literature that you reviewed, but please include at least these columns.
+
+Make sure that each row contains a single citation and you have documented all the information for each citation.
+
+Your total citation numbers will differ depending on your particular search, but should exceed 20 citations.
 
 ### Document your process
 
